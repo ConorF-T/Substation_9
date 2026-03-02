@@ -11,7 +11,11 @@
 				"C:/Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/IMC_Default.uasset",
 				"C:/Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Objects/Flashlight.uasset",
 				"C:/Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Objects/Cranklight.uasset",
-				"C:/Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Crank.uasset"
+				"C:/Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Crank.uasset",
+				"C:/Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/Interact.uasset",
+				"C:/Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset",
+				"C:/Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IL/HSTXYLEUCTH30ERG4IELYN.uasset"
 			]
 		}
 	]
