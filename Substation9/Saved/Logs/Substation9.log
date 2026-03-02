@@ -1855,3 +1855,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.02-20.00.07:960][565]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.02-20.00.07:960][565]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.02-20.00.07:960][565]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.02-20.01.24:542][174]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.02-20.01.24:550][174]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.02-20.01.24:561][175]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.02-20.01.27:026][471]LogContentBrowser: Attempting asset rename: NewFolder -> Images
+[2026.03.02-20.01.27:027][471]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.02-20.02.51:597][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3317.667969
+[2026.03.02-20.02.52:627][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.02.52:627][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3318.354736, Update Interval: 332.322754
+[2026.03.02-20.08.57:391][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3683.462646
+[2026.03.02-20.08.58:408][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-20.08.58:408][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3684.135742, Update Interval: 345.840027
+[2026.03.02-20.09.31:045][138]LogDerivedDataCache: C:/Users/Conor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.02-20.09.41:535][296]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.02-20.09.41:836][296]LogInterchangeEngine: [Pending] Importing
+[2026.03.02-20.09.41:836][296]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Conor/Downloads/Crosshair.png]
+[2026.03.02-20.09.42:247][298]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.02-20.09.42:249][299]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.02-20.09.42:545][300]LogTexture: Display: Building textures: /Game/Images/Crosshair.Crosshair (TFO_AutoDXT, 20x20 x1x1x1) (Required Memory Estimate: 1.063031 MB), EncodeSpeed: Fast
+[2026.03.02-20.09.42:907][300]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Conor/Downloads/Crosshair.png]
+[2026.03.02-20.09.42:914][300]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.03.02-20.09.42:914][300]LogInterchangeEngine: [Success] Import Done
+[2026.03.02-20.09.45:760][563]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Images/Crosshair.Crosshair
+[2026.03.02-20.09.46:000][563]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.03.02-20.09.46:000][563]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.03.02-20.09.46:000][563]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.03.02-20.09.46:000][563]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.03.02-20.10.03:395][631]LogTexture: Display: Building textures: /Game/Images/Crosshair.Crosshair (R16F, 20x20 x1x1x1) (Required Memory Estimate: 1.012709 MB), EncodeSpeed: Final
+[2026.03.02-20.10.05:547][884]LogTexture: Display: Building textures: /Game/Images/Crosshair.Crosshair (TFO_AutoDXT, 20x20 x1x1x1) (Required Memory Estimate: 1.063031 MB), EncodeSpeed: Final
+[2026.03.02-20.10.07:960][171]LogTexture: Display: Building textures: /Game/Images/Crosshair.Crosshair (TFO_BC5, 20x20 x1x1x1) (Required Memory Estimate: 1.112845 MB), EncodeSpeed: Final
+[2026.03.02-20.10.17:236][277]Cmd: TRANSACTION UNDO
+[2026.03.02-20.10.17:236][277]LogEditorTransaction: Undo Edit Compression Settings
+[2026.03.02-20.10.17:602][286]Cmd: TRANSACTION UNDO
+[2026.03.02-20.10.17:602][286]LogEditorTransaction: Undo Edit Compression Settings
+[2026.03.02-20.10.17:933][310]Cmd: TRANSACTION UNDO
+[2026.03.02-20.10.17:933][310]LogEditorTransaction: Undo Edit Compression Settings
+[2026.03.02-20.10.18:516][380]Cmd: TRANSACTION UNDO
+[2026.03.02-20.10.18:516][380]LogEditorTransaction: Undo Edit Compression Settings
+[2026.03.02-20.11.00:710][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-20.11.00:754][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/Crosshair] ([1] browsable assets)...
+[2026.03.02-20.11.00:755][391]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/Crosshair.Crosshair]
+[2026.03.02-20.11.00:755][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/Crosshair]
+[2026.03.02-20.11.00:755][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Crosshair" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Images/Crosshair.uasset" SILENT=true
+[2026.03.02-20.11.00:788][391]LogSavePackage: Moving output files for package: /Game/Images/Crosshair
+[2026.03.02-20.11.00:788][391]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Crosshair80726778442B3FE5B85A099F51C0919E.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Images/Crosshair.uasset'
+[2026.03.02-20.11.00:796][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.254 ms (total: 955.791 ms)
+[2026.03.02-20.11.00:833][391]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-20.11.00:833][391]LogContentValidation: Enabled validators:
+[2026.03.02-20.11.00:833][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-20.11.00:833][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-20.11.00:833][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-20.11.00:833][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-20.11.00:833][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-20.11.00:833][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-20.11.00:833][391]AssetCheck: /Game/Images/Crosshair Validating asset
+[2026.03.02-20.11.00:846][391]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/SourceControl/UncontrolledChangelists.json
