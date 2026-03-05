@@ -7239,3 +7239,957 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.05-22.36.24:219][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2026.03.05-22.36.24:261][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_56
 [2026.03.05-22.36.31:674][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.05-22.40.26:304][436]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80518.156250
+[2026.03.05-22.40.27:314][439]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-22.40.27:314][439]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80518.835938, Update Interval: 320.437012
+[2026.03.05-22.44.03:022][626]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.03:022][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_176.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.03:023][626]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.03:023][626]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_88.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.03:024][626]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.03:024][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_177.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.09:528][396]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.09:529][396]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_177.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.09:529][396]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.09:530][396]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_89.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.09:530][396]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.09:530][396]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_178.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.11:123][568]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.11:124][568]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_178.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.11:124][568]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.11:125][568]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_90.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.11:125][568]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.11:125][568]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_179.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.12:315][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.05-22.44.12:326][700]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.12:326][700]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_179.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.12:327][700]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.12:327][700]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_91.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.12:328][700]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.12:328][700]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_180.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.12:331][700]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.12:331][700]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_180.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.12:332][700]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.12:332][700]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_92.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.44.12:333][700]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.44.12:333][700]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_181.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.45.44:743][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.05-22.45.44:747][159]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.026
+[2026.03.05-22.45.44:748][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_InteractionArea] ([2] browsable assets)...
+[2026.03.05-22.45.44:748][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_InteractionArea]
+[2026.03.05-22.45.44:757][159]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_InteractionArea_Auto0
+[2026.03.05-22.45.44:757][159]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BP_InteractionArea_Auto0042E577047ED7D2F02CE12B6BF13D1AE.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Blueprints/BP_InteractionArea_Auto0.uasset'
+[2026.03.05-22.45.44:758][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-22.45.44:758][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-22.45.44:770][159]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AC_InteractionTrace_Auto0
+[2026.03.05-22.45.44:770][159]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace_Auto02E9430384AAD1C3A859B658A0FA0349A.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Blueprints/AC_InteractionTrace_Auto0.uasset'
+[2026.03.05-22.45.44:771][159]LogFileHelpers: Auto-saving content packages took 0.024
+[2026.03.05-22.46.43:162][990]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80891.648438
+[2026.03.05-22.46.43:311][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-22.46.43:311][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80891.789062, Update Interval: 350.046082
+[2026.03.05-22.47.44:370][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.05-22.47.58:358][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.05-22.47.58:365][422]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.47.58:365][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_182.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.47.58:366][422]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.47.58:366][422]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_93.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.47.58:366][422]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.47.58:367][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_181.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.47.58:370][422]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.47.58:370][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_183.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.47.58:371][422]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.47.58:371][422]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_94.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.47.58:372][422]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.47.58:372][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_182.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.47.58:739][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-22.47.58:770][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_InteractionArea] ([2] browsable assets)...
+[2026.03.05-22.47.58:771][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_InteractionArea]
+[2026.03.05-22.47.58:771][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_InteractionArea" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BP_InteractionArea.uasset" SILENT=true
+[2026.03.05-22.47.58:781][462]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_InteractionArea
+[2026.03.05-22.47.58:782][462]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BP_InteractionAreaA5097C7140E3312A29979B8472A17C8C.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BP_InteractionArea.uasset'
+[2026.03.05-22.47.58:789][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.128 ms (total: 2.61 sec)
+[2026.03.05-22.47.58:842][462]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-22.47.58:842][462]LogContentValidation: Enabled validators:
+[2026.03.05-22.47.58:842][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-22.47.58:842][462]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-22.47.58:842][462]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-22.47.58:842][462]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-22.47.58:842][462]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-22.47.58:842][462]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-22.47.58:842][462]AssetCheck: /Game/Blueprints/BP_InteractionArea Validating asset
+[2026.03.05-22.49.42:291][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.05-22.49.42:877][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-22.49.42:916][170]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-22.49.42:916][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-22.49.42:916][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-22.49.42:933][170]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-22.49.42:933][170]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace8EFEF8414FDBDFB2D523F992D1E8E1AC.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-22.49.42:939][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.516 ms (total: 2.68 sec)
+[2026.03.05-22.49.42:972][170]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-22.49.42:972][170]LogContentValidation: Enabled validators:
+[2026.03.05-22.49.42:972][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-22.49.42:972][170]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-22.49.42:972][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-22.49.42:972][170]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-22.49.42:972][170]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-22.49.42:972][170]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-22.49.42:972][170]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-22.50.04:241][722]LogDerivedDataCache: C:/Users/Conor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.05-22.53.27:366][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 81278.937500
+[2026.03.05-22.53.28:392][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-22.53.28:392][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 81279.625000, Update Interval: 338.101746
+[2026.03.05-22.56.25:064][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.05-22.56.25:068][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.028
+[2026.03.05-22.56.25:068][673]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-22.56.25:068][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-22.56.25:090][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AC_InteractionTrace_Auto1
+[2026.03.05-22.56.25:090][673]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace_Auto1E06E4E9A4E9677C391102AA50C2FFCDF.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Blueprints/AC_InteractionTrace_Auto1.uasset'
+[2026.03.05-22.56.25:091][673]LogFileHelpers: Auto-saving content packages took 0.022
+[2026.03.05-22.59.59:003][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 81656.867188
+[2026.03.05-23.00.00:021][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-23.00.00:021][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 81657.554688, Update Interval: 322.912689
+[2026.03.05-23.00.10:064][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-23.00.10:070][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:071][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_183.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-23.00.10:071][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:072][158]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_95.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-23.00.10:072][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:072][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_184.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-23.00.10:075][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:076][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:076][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:092][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:093][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_185.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-23.00.10:093][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:093][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_186.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-23.00.10:094][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:094][158]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_97.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-23.00.10:096][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:096][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:097][158]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.00.10:742][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.00.10:782][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BI_Interaction] ([2] browsable assets)...
+[2026.03.05-23.00.10:782][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BI_Interaction]
+[2026.03.05-23.00.10:782][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BI_Interaction" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BI_Interaction.uasset" SILENT=true
+[2026.03.05-23.00.10:790][225]LogSavePackage: Moving output files for package: /Game/Blueprints/BI_Interaction
+[2026.03.05-23.00.10:790][225]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BI_InteractionD20FBDCF4D1983538FFC20B4A46E24CB.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BI_Interaction.uasset'
+[2026.03.05-23.00.10:797][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.503 ms (total: 2.73 sec)
+[2026.03.05-23.00.10:834][225]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.00.10:834][225]LogContentValidation: Enabled validators:
+[2026.03.05-23.00.10:834][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.00.10:834][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.00.10:834][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.00.10:834][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.00.10:834][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.00.10:834][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.00.10:834][225]AssetCheck: /Game/Blueprints/BI_Interaction Validating asset
+[2026.03.05-23.00.16:901][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.05-23.00.17:364][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.00.17:392][980]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-23.00.17:392][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-23.00.17:392][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-23.00.17:407][980]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-23.00.17:408][980]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace98E280F84BEBCFBC38C44F9AD91252C3.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-23.00.17:415][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.913 ms (total: 2.78 sec)
+[2026.03.05-23.00.17:453][980]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.00.17:453][980]LogContentValidation: Enabled validators:
+[2026.03.05-23.00.17:453][980]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.00.17:453][980]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.00.17:453][980]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.00.17:454][980]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.00.17:454][980]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.00.17:454][980]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.00.17:454][980]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-23.02.27:144][ 88]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Interact.IA_Interact
+[2026.03.05-23.02.44:534][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.02.44:574][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2026.03.05-23.02.44:574][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Interact]
+[2026.03.05-23.02.44:574][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Interact" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Interact.uasset" SILENT=true
+[2026.03.05-23.02.44:583][789]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Interact
+[2026.03.05-23.02.44:583][789]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/IA_Interact335CB34F45F4359F33C4269A846FBEEB.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Interact.uasset'
+[2026.03.05-23.02.44:591][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.623 ms (total: 2.84 sec)
+[2026.03.05-23.02.44:622][789]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.02.44:622][789]LogContentValidation: Enabled validators:
+[2026.03.05-23.02.44:622][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.02.44:622][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.02.44:622][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.02.44:622][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.02.44:622][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.02.44:622][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.02.44:622][789]AssetCheck: /Game/Input/Actions/IA_Interact Validating asset
+[2026.03.05-23.02.52:938][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.05-23.03.02:345][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.03.02:374][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2026.03.05-23.03.02:374][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Interact]
+[2026.03.05-23.03.02:374][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Interact" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Interact.uasset" SILENT=true
+[2026.03.05-23.03.02:375][792]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Interact
+[2026.03.05-23.03.02:376][792]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/IA_InteractC0BCCE5241BF44074C068EB84F8037A5.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Interact.uasset'
+[2026.03.05-23.03.02:381][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.729 ms (total: 2.87 sec)
+[2026.03.05-23.03.02:418][792]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.03.02:418][792]LogContentValidation: Enabled validators:
+[2026.03.05-23.03.02:418][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.03.02:418][792]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.03.02:418][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.03.02:418][792]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.03.02:418][792]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.03.02:418][792]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.03.02:418][792]AssetCheck: /Game/Input/Actions/IA_Interact Validating asset
+[2026.03.05-23.03.58:940][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.05-23.03.59:890][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-23.03.59:894][306]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-23.03.59:894][306]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.05-23.03.59:895][306]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 658 us (total: 25.548 ms)
+[2026.03.05-23.03.59:895][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-23.03.59:895][306]LogPlayLevel: Display: Creating online subsystem for client :Context_57
+[2026.03.05-23.03.59:898][306]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2026.03.05-23.03.59:905][307]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-23.03.59:909][307]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-23.03.59:910][307]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 746 us (total: 33.629 ms)
+[2026.03.05-23.03.59:910][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004653s)
+[2026.03.05-23.03.59:910][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.004687s)
+[2026.03.05-23.03.59:930][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.05-23.03.59:935][307]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.05-23.03.59:937][307]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-23.03.59:937][307]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-23.03.59:937][307]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-23.03.59:937][307]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-23.03.59:938][307]LogWorldPartition: Display: WorldPartition initialize took 1.110 ms (total: 347.041 ms)
+[2026.03.05-23.03.59:938][307]LogPlayLevel: PIE: World Init took: (0.002578s)
+[2026.03.05-23.03.59:938][307]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2026.03.05-23.03.59:938][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-23.03.59:938][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-23.03.59:938][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-23.03.59:938][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-23.03.59:938][307]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-23.03.59:938][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-23.03.59:938][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-23.03.59:938][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-23.03.59:938][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-23.03.59:938][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-23.03.59:938][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-23.03.59:940][307]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-23.03.59:950][307]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.05-23.03.59:950][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-23.03.59:950][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-23.03.59:950][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-23.03.59:950][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2026.03.05-23.03.59:950][307]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=46
+[2026.03.05-23.03.59:950][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2026.03.05-23.03.59:950][307]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8320
+[2026.03.05-23.03.59:950][307]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=46
+[2026.03.05-23.03.59:952][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2026.03.05-23.03.59:952][307]LogInit: FAudioDevice initialized with ID 46.
+[2026.03.05-23.03.59:952][307]LogAudio: Display: Audio Device (ID: 46) registered with world 'Lvl_FirstPerson'.
+[2026.03.05-23.03.59:952][307]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2026.03.05-23.03.59:995][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-23.03.59:995][307]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.05-23.03.59:998][307]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.05-15.03.59
+[2026.03.05-23.03.59:998][307]LogWorld: Bringing up level for play took: 0.002112
+[2026.03.05-23.04.00:007][307]PIE: Server logged in
+[2026.03.05-23.04.00:010][307]PIE: Play in editor total start time 0.116 seconds.
+[2026.03.05-23.04.00:094][308]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-23.04.00:980][395]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2026.03.05-23.04.01:105][409]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Goodbye
+[2026.03.05-23.04.01:550][459]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2026.03.05-23.04.02:199][533]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Goodbye
+[2026.03.05-23.04.02:543][572]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Hello
+[2026.03.05-23.04.02:946][618]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Goodbye
+[2026.03.05-23.04.03:534][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-23.04.03:534][681]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-23.04.03:535][681]LogSlate: Window 'Substation9 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-23.04.03:538][681]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-23.04.03:539][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-23.04.03:539][681]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.05-23.04.03:540][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-23.04.03:545][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-23.04.03:564][681]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-23.04.03:564][681]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2026.03.05-23.04.03:564][681]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2026.03.05-23.04.03:566][681]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2026.03.05-23.04.03:566][681]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=46
+[2026.03.05-23.04.03:576][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.05-23.04.03:605][682]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2026.03.05-23.05.01:410][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.05-23.05.01:875][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.05.01:902][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.05-23.05.01:980][999]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.05-23.05.01:980][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.05-23.05.02:004][999]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.05-23.05.02:004][999]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BP_FirstPersonCharacter22A6451444FF69A51FFDD6BF22AFD370.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.05-23.05.02:011][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.666 ms (total: 3.01 sec)
+[2026.03.05-23.05.02:054][999]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.05.02:054][999]LogContentValidation: Enabled validators:
+[2026.03.05-23.05.02:054][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.05.02:054][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.05.02:054][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.05.02:054][999]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.05.02:054][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.05.02:054][999]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.05.02:054][999]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.05-23.05.57:375][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82001.062500
+[2026.03.05-23.05.58:403][451]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-23.05.58:404][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82001.750000, Update Interval: 348.886993
+[2026.03.05-23.06.04:606][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.05-23.06.05:053][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.06.05:083][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-23.06.05:083][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-23.06.05:083][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-23.06.05:098][738]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-23.06.05:098][738]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace1D9EF17A4E0F5ABC2F092488962F7695.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-23.06.05:105][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.725 ms (total: 3.06 sec)
+[2026.03.05-23.06.05:138][738]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.06.05:138][738]LogContentValidation: Enabled validators:
+[2026.03.05-23.06.05:138][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.06.05:138][738]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.06.05:138][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.06.05:138][738]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.06.05:138][738]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.06.05:138][738]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.06.05:138][738]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-23.06.43:314][566]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.06.43:314][566]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.06.43:316][566]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.09:356][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.05-23.07.09:372][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA_Auto2
+[2026.03.05-23.07.09:372][889]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/CDCXUPSAWEYJNISYAYWGQA_Auto2B1D7278E4AAB5F17BE6977A6280D54FE.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA_Auto2.uasset'
+[2026.03.05-23.07.09:373][889]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.040
+[2026.03.05-23.07.09:373][889]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2026.03.05-23.07.09:373][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2026.03.05-23.07.09:373][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Interact]
+[2026.03.05-23.07.09:378][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Interact_Auto2
+[2026.03.05-23.07.09:379][889]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/IA_Interact_Auto2B706C49E4E92293B6D05899E7B2D8C54.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Input/Actions/IA_Interact_Auto2.uasset'
+[2026.03.05-23.07.09:380][889]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-23.07.09:446][889]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-23.07.09:447][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-23.07.09:456][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/InteractionTester_Auto2
+[2026.03.05-23.07.09:456][889]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTester_Auto2895D838946ADF283338BAE872AC0F78D.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Blueprints/InteractionTester_Auto2.uasset'
+[2026.03.05-23.07.09:457][889]LogFileHelpers: Auto-saving content packages took 0.084
+[2026.03.05-23.07.40:138][580]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.40:139][580]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.40:140][580]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.44:146][ 47]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.44:147][ 47]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.44:148][ 47]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.46:679][334]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.46:680][334]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.46:681][334]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.47:227][389]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.47:228][389]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.47:229][389]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.47:551][418]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.47:552][418]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.47:552][418]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.48:663][541]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.48:664][541]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.48:664][541]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.49:737][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.07.49:785][658]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-23.07.49:856][658]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-23.07.49:856][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-23.07.49:856][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InteractionTester" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset" SILENT=true
+[2026.03.05-23.07.49:866][658]LogSavePackage: Moving output files for package: /Game/Blueprints/InteractionTester
+[2026.03.05-23.07.49:866][658]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTester4DD2D45B41FFC4BCA6B860B48C067CDC.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset'
+[2026.03.05-23.07.49:873][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.969 ms (total: 3.20 sec)
+[2026.03.05-23.07.49:920][658]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.07.49:920][658]LogContentValidation: Enabled validators:
+[2026.03.05-23.07.49:920][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.07.49:920][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.07.49:920][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.07.49:920][658]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.07.49:920][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.07.49:920][658]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.07.49:920][658]AssetCheck: /Game/Blueprints/InteractionTester Validating asset
+[2026.03.05-23.07.50:824][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.50:825][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.50:825][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.50:859][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-23.07.50:866][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.50:867][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.50:867][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.50:868][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.50:872][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.50:873][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.07.50:873][762]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.38:809][343]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.38:809][343]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.38:810][343]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.38:811][343]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.38:812][343]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.38:812][343]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:043][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:043][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:044][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:076][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-23.08.40:081][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:082][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:083][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:084][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:087][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:088][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:089][477]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.08.40:775][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.08.40:816][546]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-23.08.40:886][546]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-23.08.40:886][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-23.08.40:886][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InteractionTester" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset" SILENT=true
+[2026.03.05-23.08.40:898][546]LogSavePackage: Moving output files for package: /Game/Blueprints/InteractionTester
+[2026.03.05-23.08.40:898][546]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTester452D9B03435CCA9B20A5DFA99B992A54.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset'
+[2026.03.05-23.08.40:906][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.824 ms (total: 3.33 sec)
+[2026.03.05-23.08.40:951][546]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.08.40:951][546]LogContentValidation: Enabled validators:
+[2026.03.05-23.08.40:951][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.08.40:951][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.08.40:951][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.08.40:951][546]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.08.40:951][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.08.40:951][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.08.40:951][546]AssetCheck: /Game/Blueprints/InteractionTester Validating asset
+[2026.03.05-23.09.08:534][573]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.08:535][573]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.08:536][573]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.18:233][725]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.18:235][725]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.18:235][725]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.40:287][646]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.40:288][646]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.40:289][646]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.40:293][646]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.40:294][646]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.09.40:295][646]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.12.37:009][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82397.437500
+[2026.03.05-23.12.38:026][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-23.12.38:026][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82398.125000, Update Interval: 349.201935
+[2026.03.05-23.17.20:190][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.17.20:218][423]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-23.17.20:284][423]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-23.17.20:285][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-23.17.20:285][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InteractionTester" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset" SILENT=true
+[2026.03.05-23.17.20:296][423]LogSavePackage: Moving output files for package: /Game/Blueprints/InteractionTester
+[2026.03.05-23.17.20:296][423]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTester5E86BA0F4627405BD560588A5B3CE8BE.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset'
+[2026.03.05-23.17.20:303][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.408 ms (total: 3.44 sec)
+[2026.03.05-23.17.20:349][423]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.17.20:349][423]LogContentValidation: Enabled validators:
+[2026.03.05-23.17.20:349][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.17.20:349][423]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.17.20:349][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.17.20:349][423]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.17.20:349][423]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.17.20:349][423]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.17.20:350][423]AssetCheck: /Game/Blueprints/InteractionTester Validating asset
+[2026.03.05-23.17.21:178][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.21:179][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.21:179][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.21:215][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.05-23.17.21:220][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.21:220][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.21:221][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.21:222][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.21:226][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.21:227][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.21:228][520]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.22:277][630]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.36:721][559]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.36:723][559]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.36:724][559]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.36:763][559]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.47:373][320]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.47:375][320]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.47:376][320]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.47:377][320]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.47:377][320]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.47:378][320]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.54:219][649]LogEditorTransaction: Undo Attach Component
+[2026.03.05-23.17.54:224][649]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.54:226][649]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.54:280][649]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:695][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:695][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:696][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:729][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.05-23.17.55:736][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:737][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:738][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:739][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:741][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:742][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:743][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.55:785][767]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.17.56:757][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.17.56:785][869]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-23.17.56:790][869]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-23.17.56:790][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-23.17.56:790][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InteractionTester" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset" SILENT=true
+[2026.03.05-23.17.56:803][869]LogSavePackage: Moving output files for package: /Game/Blueprints/InteractionTester
+[2026.03.05-23.17.56:804][869]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTester35395290497F68576865C4BAAC084621.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset'
+[2026.03.05-23.17.56:811][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.744 ms (total: 3.50 sec)
+[2026.03.05-23.17.56:846][869]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.17.56:846][869]LogContentValidation: Enabled validators:
+[2026.03.05-23.17.56:846][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.17.56:846][869]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.17.56:846][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.17.56:846][869]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.17.56:846][869]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.17.56:846][869]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.17.56:846][869]AssetCheck: /Game/Blueprints/InteractionTester Validating asset
+[2026.03.05-23.18.06:936][594]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.06:956][596]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.06:977][598]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.06:988][599]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.07:007][601]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.07:027][603]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.07:065][607]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.07:120][613]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:253][940]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:264][941]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:277][942]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:289][943]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:300][944]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:312][945]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:432][959]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:444][960]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:456][961]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:467][962]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:479][963]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:492][964]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:504][965]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:515][966]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:527][967]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:539][968]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:618][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:629][978]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:641][979]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:652][980]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:665][981]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:677][982]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:688][983]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:700][984]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:711][985]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:722][986]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:735][987]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:747][988]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:758][989]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:770][990]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:782][991]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:793][992]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:813][994]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:824][995]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.24:836][996]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:207][ 40]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:227][ 42]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:247][ 44]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:260][ 45]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:271][ 46]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:283][ 47]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:295][ 48]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:306][ 49]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:318][ 50]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:330][ 51]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:342][ 52]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:354][ 53]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:365][ 54]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:377][ 55]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:397][ 57]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.25:417][ 59]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.26:338][169]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.26:383][174]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.26:411][177]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.26:439][180]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.27:045][253]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.27:046][253]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.27:047][253]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.27:048][253]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.27:049][253]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.27:050][253]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.27:073][253]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:502][522]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:526][524]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:540][525]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:542][525]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:555][526]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:603][531]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:605][531]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:619][532]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:620][532]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:634][533]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:635][533]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:649][534]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:651][534]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:663][535]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:665][535]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:679][536]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:681][536]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:694][537]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:696][537]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:710][538]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:723][539]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:725][539]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:738][540]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:740][540]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:754][541]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:755][541]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:769][542]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:771][542]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:785][543]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:787][543]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:801][544]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:803][544]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:817][545]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:819][545]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:833][546]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:835][546]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:849][547]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:851][547]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:865][548]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:866][548]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:880][549]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:894][550]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:896][550]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:910][551]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:912][551]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:926][552]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:928][552]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:942][553]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:944][553]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:958][554]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:960][554]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:974][555]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:975][555]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:989][556]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.29:990][556]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:005][557]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:007][557]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:021][558]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:023][558]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:037][559]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:050][560]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:051][560]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:066][561]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:068][561]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:081][562]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:083][562]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:097][563]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:099][563]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:113][564]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:115][564]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:129][565]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:131][565]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:145][566]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:147][566]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:161][567]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:163][567]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:176][568]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:178][568]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:192][569]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:194][569]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:207][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:209][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:223][571]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:225][571]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:239][572]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:240][572]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:254][573]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:268][574]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:270][574]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:284][575]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:285][575]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:300][576]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:302][576]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:315][577]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:317][577]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:331][578]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:333][578]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:347][579]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:349][579]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:363][580]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:364][580]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:379][581]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:381][581]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:404][583]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:418][584]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:420][584]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:434][585]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:436][585]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:449][586]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:450][586]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:465][587]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:479][588]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:493][589]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.30:841][628]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:824][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:825][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:825][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:827][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:828][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:829][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:835][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:836][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:837][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:838][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:839][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:840][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.31:842][736]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.05-23.18.31:861][736]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.42:898][398]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.42:899][398]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.42:899][398]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.42:901][398]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.42:902][398]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.42:903][398]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.42:921][398]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:833][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:834][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:835][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:873][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.05-23.18.49:880][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:881][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:882][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:883][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:885][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:886][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:887][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.18.49:919][775]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.11:079][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82782.093750
+[2026.03.05-23.19.11:212][776]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-23.19.11:212][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82782.210938, Update Interval: 324.287842
+[2026.03.05-23.19.40:400][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:401][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:402][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:436][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-23.19.40:443][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:444][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:445][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:446][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:449][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:450][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:451][168]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.19.40:838][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.19.40:883][205]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-23.19.40:950][205]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-23.19.40:950][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-23.19.40:950][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InteractionTester" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset" SILENT=true
+[2026.03.05-23.19.40:964][205]LogSavePackage: Moving output files for package: /Game/Blueprints/InteractionTester
+[2026.03.05-23.19.40:964][205]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTester50DDE1F246FAF5E781B2A9BA38125692.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset'
+[2026.03.05-23.19.40:971][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.910 ms (total: 3.63 sec)
+[2026.03.05-23.19.41:007][205]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.19.41:007][205]LogContentValidation: Enabled validators:
+[2026.03.05-23.19.41:007][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.19.41:007][205]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.19.41:007][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.19.41:007][205]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.19.41:007][205]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.19.41:007][205]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.19.41:007][205]AssetCheck: /Game/Blueprints/InteractionTester Validating asset
+[2026.03.05-23.20.06:075][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.05-23.20.06:088][376]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA_Auto3
+[2026.03.05-23.20.06:088][376]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/CDCXUPSAWEYJNISYAYWGQA_Auto3837A46C04112487DA8F4E1B5E41BC1F3.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA_Auto3.uasset'
+[2026.03.05-23.20.06:092][376]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.038
+[2026.03.05-23.20.06:092][376]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2026.03.05-23.20.06:092][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2026.03.05-23.20.06:092][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Interact]
+[2026.03.05-23.20.06:098][376]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Interact_Auto3
+[2026.03.05-23.20.06:098][376]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/IA_Interact_Auto3C91F53C042D8F4395281868393244B36.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Input/Actions/IA_Interact_Auto3.uasset'
+[2026.03.05-23.20.06:099][376]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.03.05-23.20.07:374][463]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-23.20.07:378][463]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-23.20.07:378][463]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.05-23.20.07:378][463]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 685 us (total: 26.233 ms)
+[2026.03.05-23.20.07:379][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-23.20.07:379][463]LogPlayLevel: Display: Creating online subsystem for client :Context_58
+[2026.03.05-23.20.07:381][463]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2026.03.05-23.20.07:387][464]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-23.20.07:392][464]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-23.20.07:393][464]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 800 us (total: 34.430 ms)
+[2026.03.05-23.20.07:393][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005136s)
+[2026.03.05-23.20.07:393][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005163s)
+[2026.03.05-23.20.07:411][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.05-23.20.07:414][464]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.05-23.20.07:416][464]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-23.20.07:416][464]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-23.20.07:416][464]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-23.20.07:416][464]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-23.20.07:417][464]LogWorldPartition: Display: WorldPartition initialize took 1.111 ms (total: 348.152 ms)
+[2026.03.05-23.20.07:417][464]LogPlayLevel: PIE: World Init took: (0.002538s)
+[2026.03.05-23.20.07:418][464]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2026.03.05-23.20.07:418][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-23.20.07:418][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-23.20.07:418][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-23.20.07:418][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-23.20.07:418][464]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-23.20.07:418][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-23.20.07:418][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-23.20.07:418][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-23.20.07:418][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-23.20.07:418][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-23.20.07:418][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-23.20.07:420][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-23.20.07:430][464]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.05-23.20.07:430][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-23.20.07:430][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-23.20.07:430][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-23.20.07:430][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2026.03.05-23.20.07:430][464]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=47
+[2026.03.05-23.20.07:430][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2026.03.05-23.20.07:430][464]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11072
+[2026.03.05-23.20.07:430][464]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=47
+[2026.03.05-23.20.07:432][464]LogInit: FAudioDevice initialized with ID 47.
+[2026.03.05-23.20.07:432][464]LogAudio: Display: Audio Device (ID: 47) registered with world 'Lvl_FirstPerson'.
+[2026.03.05-23.20.07:432][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2026.03.05-23.20.07:432][464]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2026.03.05-23.20.07:479][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-23.20.07:479][464]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.05-23.20.07:481][464]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.05-15.20.07
+[2026.03.05-23.20.07:482][464]LogWorld: Bringing up level for play took: 0.002107
+[2026.03.05-23.20.07:488][464]PIE: Server logged in
+[2026.03.05-23.20.07:489][464]PIE: Play in editor total start time 0.111 seconds.
+[2026.03.05-23.20.07:562][465]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-23.20.09:946][735]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-23.20.28:145][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-23.20.28:145][909]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-23.20.28:145][909]LogSlate: Window 'Substation9 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-23.20.28:149][909]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-23.20.28:150][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-23.20.28:150][909]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.05-23.20.28:151][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-23.20.28:155][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-23.20.28:176][909]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2026.03.05-23.20.28:176][909]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=4
+[2026.03.05-23.20.28:178][909]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=2
+[2026.03.05-23.20.28:178][909]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=47
+[2026.03.05-23.20.28:182][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.05-23.20.28:225][913]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2026.03.05-23.20.36:027][601]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:039][602]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:052][603]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:066][604]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:078][605]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:092][606]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:104][607]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:117][608]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:130][609]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:143][610]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:330][632]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:343][633]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:356][634]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:369][635]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:481][648]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:502][650]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:515][651]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:528][652]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:541][653]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:837][688]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:858][690]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:887][693]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.36:909][695]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.37:447][759]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.37:460][760]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.37:671][785]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-23.20.40:588][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-23.20.40:594][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.20.40:647][110]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA
+[2026.03.05-23.20.40:648][110]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/CDCXUPSAWEYJNISYAYWGQAF45B9CBC4017CAD090F122BC36FAC89E.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA.uasset'
+[2026.03.05-23.20.40:649][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2026.03.05-23.20.40:649][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Interact]
+[2026.03.05-23.20.40:649][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Interact" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Interact.uasset" SILENT=true
+[2026.03.05-23.20.40:654][110]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Interact
+[2026.03.05-23.20.40:654][110]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/IA_InteractED818BFD4ED5DCC8ED0D5BA0F1B0D2A3.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Interact.uasset'
+[2026.03.05-23.20.40:666][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.654 ms (total: 3.70 sec)
+[2026.03.05-23.20.40:720][110]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.05-23.20.40:720][110]LogContentValidation: Enabled validators:
+[2026.03.05-23.20.40:720][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.20.40:720][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.20.40:720][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.20.40:720][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.20.40:720][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.20.40:720][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.20.40:720][110]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.03.05-23.20.40:720][110]AssetCheck: /Game/Input/Actions/IA_Interact Validating asset
+[2026.03.05-23.20.45:007][603]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-23.20.45:007][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-23.20.45:044][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.05-23.20.57:341][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-23.20.57:346][164]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-23.20.57:346][164]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.05-23.20.57:346][164]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 573 us (total: 26.807 ms)
+[2026.03.05-23.20.57:346][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-23.20.57:346][164]LogPlayLevel: Display: Creating online subsystem for client :Context_59
+[2026.03.05-23.20.57:348][164]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2026.03.05-23.20.57:355][165]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-23.20.57:359][165]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-23.20.57:360][165]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 743 us (total: 35.173 ms)
+[2026.03.05-23.20.57:360][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004960s)
+[2026.03.05-23.20.57:360][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.004991s)
+[2026.03.05-23.20.57:379][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.05-23.20.57:382][165]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.05-23.20.57:383][165]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-23.20.57:383][165]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-23.20.57:383][165]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-23.20.57:383][165]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-23.20.57:384][165]LogWorldPartition: Display: WorldPartition initialize took 1.172 ms (total: 349.325 ms)
+[2026.03.05-23.20.57:384][165]LogPlayLevel: PIE: World Init took: (0.002504s)
+[2026.03.05-23.20.57:385][165]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2026.03.05-23.20.57:385][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-23.20.57:385][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-23.20.57:385][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-23.20.57:385][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-23.20.57:385][165]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-23.20.57:385][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-23.20.57:385][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-23.20.57:385][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-23.20.57:385][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-23.20.57:385][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-23.20.57:385][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-23.20.57:387][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-23.20.57:396][165]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.05-23.20.57:396][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-23.20.57:396][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-23.20.57:396][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-23.20.57:397][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2026.03.05-23.20.57:397][165]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=48
+[2026.03.05-23.20.57:397][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2026.03.05-23.20.57:397][165]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20368
+[2026.03.05-23.20.57:397][165]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=48
+[2026.03.05-23.20.57:398][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2026.03.05-23.20.57:398][165]LogInit: FAudioDevice initialized with ID 48.
+[2026.03.05-23.20.57:398][165]LogAudio: Display: Audio Device (ID: 48) registered with world 'Lvl_FirstPerson'.
+[2026.03.05-23.20.57:398][165]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2026.03.05-23.20.57:432][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-23.20.57:432][165]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.05-23.20.57:435][165]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.05-15.20.57
+[2026.03.05-23.20.57:435][165]LogWorld: Bringing up level for play took: 0.002179
+[2026.03.05-23.20.57:441][165]PIE: Server logged in
+[2026.03.05-23.20.57:441][165]PIE: Play in editor total start time 0.095 seconds.
+[2026.03.05-23.20.57:510][166]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-23.21.00:235][479]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-23.21.05:102][ 61]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-23.21.05:786][143]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-23.21.07:378][334]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-23.21.07:769][381]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-23.21.08:011][410]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-23.21.08:278][442]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-23.21.09:957][642]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-23.21.16:256][393]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-23.21.17:698][565]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-23.21.18:151][619]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-23.21.19:741][809]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-23.21.21:270][992]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-23.21.23:370][244]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-23.21.23:828][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-23.21.23:828][296]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-23.21.23:828][296]LogSlate: Window 'Substation9 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-23.21.23:832][296]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-23.21.23:834][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-23.21.23:834][296]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.05-23.21.23:835][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-23.21.23:839][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-23.21.23:859][296]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2026.03.05-23.21.23:859][296]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=4
+[2026.03.05-23.21.23:861][296]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=2
+[2026.03.05-23.21.23:861][296]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=48
+[2026.03.05-23.21.23:864][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.05-23.21.23:906][297]LogPlayLevel: Display: Destroying online subsystem :Context_59
