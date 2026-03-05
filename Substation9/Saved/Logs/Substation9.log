@@ -6160,3 +6160,1082 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.05-02.23.49:815][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.05-02.23.49:815][ 24]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.05-02.23.49:815][ 24]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-02.24.26:561][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7567.941895
+[2026.03.05-02.24.27:577][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-02.24.27:577][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7568.618652, Update Interval: 359.122894
+[2026.03.05-02.24.31:590][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-02.24.31:595][854]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-02.24.31:595][854]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.05-02.24.31:595][854]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 566 us (total: 21.881 ms)
+[2026.03.05-02.24.31:595][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-02.24.31:595][854]LogPlayLevel: Display: Creating online subsystem for client :Context_49
+[2026.03.05-02.24.31:598][854]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.03.05-02.24.31:604][855]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-02.24.31:607][855]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-02.24.31:608][855]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 719 us (total: 29.137 ms)
+[2026.03.05-02.24.31:608][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004412s)
+[2026.03.05-02.24.31:608][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.004445s)
+[2026.03.05-02.24.31:627][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.05-02.24.31:630][855]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.05-02.24.31:632][855]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-02.24.31:632][855]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-02.24.31:632][855]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-02.24.31:632][855]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-02.24.31:633][855]LogWorldPartition: Display: WorldPartition initialize took 1.067 ms (total: 340.351 ms)
+[2026.03.05-02.24.31:633][855]LogPlayLevel: PIE: World Init took: (0.002497s)
+[2026.03.05-02.24.31:633][855]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2026.03.05-02.24.31:633][855]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-02.24.31:633][855]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-02.24.31:633][855]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-02.24.31:633][855]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-02.24.31:633][855]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-02.24.31:633][855]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-02.24.31:633][855]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-02.24.31:633][855]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-02.24.31:633][855]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-02.24.31:633][855]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-02.24.31:633][855]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-02.24.31:635][855]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-02.24.31:644][855]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.05-02.24.31:644][855]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-02.24.31:644][855]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-02.24.31:644][855]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-02.24.31:645][855]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2026.03.05-02.24.31:645][855]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=40
+[2026.03.05-02.24.31:645][855]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2026.03.05-02.24.31:645][855]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8948
+[2026.03.05-02.24.31:645][855]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=40
+[2026.03.05-02.24.31:646][855]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2026.03.05-02.24.31:646][855]LogInit: FAudioDevice initialized with ID 40.
+[2026.03.05-02.24.31:646][855]LogAudio: Display: Audio Device (ID: 40) registered with world 'Lvl_FirstPerson'.
+[2026.03.05-02.24.31:646][855]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2026.03.05-02.24.31:684][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-02.24.31:684][855]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.05-02.24.31:686][855]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.04-18.24.31
+[2026.03.05-02.24.31:686][855]LogWorld: Bringing up level for play took: 0.001645
+[2026.03.05-02.24.31:693][855]PIE: Server logged in
+[2026.03.05-02.24.31:693][855]PIE: Play in editor total start time 0.099 seconds.
+[2026.03.05-02.24.31:776][856]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-02.24.38:643][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-02.24.38:643][654]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-02.24.38:643][654]LogSlate: Window 'Substation9 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-02.24.38:647][654]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-02.24.38:647][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-02.24.38:647][654]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.05-02.24.38:648][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-02.24.38:653][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-02.24.38:672][654]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2026.03.05-02.24.38:672][654]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2026.03.05-02.24.38:674][654]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2026.03.05-02.24.38:674][654]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=40
+[2026.03.05-02.24.38:677][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.05-02.24.38:708][656]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.03.05-02.26.10:602][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.05-02.26.36:211][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.05-02.26.36:216][129]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.025
+[2026.03.05-02.26.36:216][129]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.05-02.26.36:291][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.05-02.26.36:291][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.05-02.26.36:316][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7
+[2026.03.05-02.26.36:316][129]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BP_FirstPersonCharacter_Auto7DD9AFBC444A6BBD40D6A2D9B60D9ADB8.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto7.uasset'
+[2026.03.05-02.26.36:317][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-02.26.36:317][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-02.26.36:328][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AC_InteractionTrace_Auto7
+[2026.03.05-02.26.36:328][129]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace_Auto7A1F276F040D55C81DBD1268DBF2E5841.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Blueprints/AC_InteractionTrace_Auto7.uasset'
+[2026.03.05-02.26.36:328][129]LogFileHelpers: Auto-saving content packages took 0.113
+[2026.03.05-02.29.01:132][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-02.29.01:164][542]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-02.29.01:164][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-02.29.01:164][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-02.29.01:178][542]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-02.29.01:178][542]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace9A7B389A4785736C6EA2FBA6B48859DE.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-02.29.01:184][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.765 ms (total: 1.62 sec)
+[2026.03.05-02.29.01:232][542]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-02.29.01:232][542]LogContentValidation: Enabled validators:
+[2026.03.05-02.29.01:232][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-02.29.01:232][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-02.29.01:232][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-02.29.01:232][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-02.29.01:232][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-02.29.01:232][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-02.29.01:232][542]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-02.30.56:872][936]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7958.285645
+[2026.03.05-02.30.57:340][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-02.30.57:340][954]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7958.744629, Update Interval: 353.298126
+[2026.03.05-02.31.39:602][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-02.31.39:633][288]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-02.31.39:633][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-02.31.39:633][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-02.31.39:647][288]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-02.31.39:648][288]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTraceF09A49754544313A382BE9A4FC1F6CA2.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-02.31.39:654][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.702 ms (total: 1.67 sec)
+[2026.03.05-02.31.39:680][288]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-02.31.39:680][288]LogContentValidation: Enabled validators:
+[2026.03.05-02.31.39:680][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-02.31.39:680][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-02.31.39:680][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-02.31.39:680][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-02.31.39:680][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-02.31.39:680][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-02.31.39:681][288]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-02.31.40:383][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.05-02.33.57:422][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.05-02.34.02:921][229]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/InteractionTester.InteractionTester
+[2026.03.05-02.34.02:921][229]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.05-02.34.13:380][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.05-02.34.14:375][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-02.34.14:415][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-02.34.14:485][463]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-02.34.14:485][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-02.34.14:485][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InteractionTester" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset" SILENT=true
+[2026.03.05-02.34.14:494][463]LogSavePackage: Moving output files for package: /Game/Blueprints/InteractionTester
+[2026.03.05-02.34.14:495][463]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTesterF13C53FE4EBD6E5BF70FC7847C3EF368.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset'
+[2026.03.05-02.34.14:502][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.430 ms (total: 1.80 sec)
+[2026.03.05-02.34.14:536][463]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-02.34.14:536][463]LogContentValidation: Enabled validators:
+[2026.03.05-02.34.14:536][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-02.34.14:536][463]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-02.34.14:536][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-02.34.14:536][463]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-02.34.14:536][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-02.34.14:536][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-02.34.14:536][463]AssetCheck: /Game/Blueprints/InteractionTester Validating asset
+[2026.03.05-02.34.39:253][692]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-02.34.39:253][692]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/InteractionTester.InteractionTester'
+[2026.03.05-02.34.47:658][416]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-02.34.47:658][416]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/InteractionTester.InteractionTester'
+[2026.03.05-02.34.48:927][560]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-02.34.48:927][560]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/InteractionTester.InteractionTester'
+[2026.03.05-02.34.50:050][693]LogStreaming: Display: FlushAsyncLoading(593): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-02.34.50:050][693]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/InteractionTester.InteractionTester'
+[2026.03.05-02.34.58:188][638]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.58:189][638]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.58:189][638]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.58:190][638]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.58:265][638]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-02.34.58:265][638]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/InteractionTester.InteractionTester'
+[2026.03.05-02.34.58:265][638]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/InteractionTester.InteractionTester'
+[2026.03.05-02.34.59:936][836]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.59:936][836]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.59:968][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.05-02.34.59:973][836]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.59:974][836]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.59:975][836]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.59:977][836]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.34.59:978][836]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.35.00:085][837]LogStreaming: Display: FlushAsyncLoading(596): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-02.35.00:085][837]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/InteractionTester.InteractionTester'
+[2026.03.05-02.35.03:895][ 90]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.35.42:918][188]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.35.42:919][188]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.35.46:112][567]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.35.46:112][567]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.36.36:842][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.05-02.36.36:846][254]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.027
+[2026.03.05-02.36.36:847][254]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-02.36.36:912][254]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-02.36.36:913][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-02.36.36:923][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/InteractionTester_Auto8
+[2026.03.05-02.36.36:923][254]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTester_Auto8B8CA592B4E779C6729F117AE36C0CB1C.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Blueprints/InteractionTester_Auto8.uasset'
+[2026.03.05-02.36.36:924][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-02.36.36:924][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-02.36.36:937][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AC_InteractionTrace_Auto8
+[2026.03.05-02.36.36:937][254]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace_Auto86ABF653C4CACA27123F445BC39B46451.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Blueprints/AC_InteractionTrace_Auto8.uasset'
+[2026.03.05-02.36.36:938][254]LogFileHelpers: Auto-saving content packages took 0.091
+[2026.03.05-02.36.41:783][429]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.36.41:783][429]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.36.41:816][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.05-02.36.41:819][429]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.36.41:820][429]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.36.41:820][429]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.36.41:823][429]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.36.41:824][429]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.36.41:850][429]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.36.41:875][430]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-02.36.41:875][430]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/InteractionTester.InteractionTester'
+[2026.03.05-02.36.42:218][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-02.36.42:247][464]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-02.36.42:253][464]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-02.36.42:253][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-02.36.42:253][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InteractionTester" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset" SILENT=true
+[2026.03.05-02.36.42:262][464]LogSavePackage: Moving output files for package: /Game/Blueprints/InteractionTester
+[2026.03.05-02.36.42:263][464]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTesterE6B7672344CD602A3EA59484E3A6F4A0.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset'
+[2026.03.05-02.36.42:269][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.563 ms (total: 1.85 sec)
+[2026.03.05-02.36.42:314][464]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-02.36.42:314][464]LogContentValidation: Enabled validators:
+[2026.03.05-02.36.42:314][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-02.36.42:314][464]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-02.36.42:314][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-02.36.42:314][464]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-02.36.42:314][464]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-02.36.42:314][464]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-02.36.42:314][464]AssetCheck: /Game/Blueprints/InteractionTester Validating asset
+[2026.03.05-02.36.46:033][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-02.36.46:073][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-02.36.46:073][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-02.36.46:073][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-02.36.46:088][894]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-02.36.46:088][894]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTraceB67D03594F7C819C99C9399A23A6C164.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-02.36.46:096][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.188 ms (total: 1.91 sec)
+[2026.03.05-02.36.46:130][894]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-02.36.46:130][894]LogContentValidation: Enabled validators:
+[2026.03.05-02.36.46:130][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-02.36.46:130][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-02.36.46:130][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-02.36.46:130][894]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-02.36.46:130][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-02.36.46:130][894]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-02.36.46:130][894]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-02.37.00:330][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-02.37.00:338][918]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.00:338][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-02.37.00:338][918]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.00:339][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-02.37.00:342][918]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.00:342][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_161.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-02.37.00:343][918]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.00:343][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_161.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-02.37.01:458][ 46]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-02.37.01:462][ 46]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-02.37.01:462][ 46]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.05-02.37.01:463][ 46]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 575 us (total: 22.456 ms)
+[2026.03.05-02.37.01:463][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-02.37.01:463][ 46]LogPlayLevel: Display: Creating online subsystem for client :Context_51
+[2026.03.05-02.37.01:465][ 46]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.03.05-02.37.01:471][ 47]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-02.37.01:475][ 47]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-02.37.01:476][ 47]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 730 us (total: 29.867 ms)
+[2026.03.05-02.37.01:476][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005013s)
+[2026.03.05-02.37.01:476][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005049s)
+[2026.03.05-02.37.01:495][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.05-02.37.01:499][ 47]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.05-02.37.01:501][ 47]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-02.37.01:501][ 47]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-02.37.01:501][ 47]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-02.37.01:501][ 47]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-02.37.01:502][ 47]LogWorldPartition: Display: WorldPartition initialize took 1.105 ms (total: 341.456 ms)
+[2026.03.05-02.37.01:502][ 47]LogPlayLevel: PIE: World Init took: (0.002569s)
+[2026.03.05-02.37.01:503][ 47]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.03.05-02.37.01:503][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-02.37.01:503][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-02.37.01:503][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-02.37.01:503][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-02.37.01:503][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-02.37.01:503][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-02.37.01:503][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-02.37.01:503][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-02.37.01:503][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-02.37.01:503][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-02.37.01:503][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-02.37.01:505][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-02.37.01:514][ 47]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.05-02.37.01:515][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-02.37.01:515][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-02.37.01:515][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-02.37.01:515][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.03.05-02.37.01:515][ 47]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=41
+[2026.03.05-02.37.01:515][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2026.03.05-02.37.01:515][ 47]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8104
+[2026.03.05-02.37.01:515][ 47]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=41
+[2026.03.05-02.37.01:517][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.03.05-02.37.01:517][ 47]LogInit: FAudioDevice initialized with ID 41.
+[2026.03.05-02.37.01:517][ 47]LogAudio: Display: Audio Device (ID: 41) registered with world 'Lvl_FirstPerson'.
+[2026.03.05-02.37.01:517][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.05-02.37.01:551][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-02.37.01:551][ 47]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.05-02.37.01:553][ 47]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.04-18.37.01
+[2026.03.05-02.37.01:553][ 47]LogWorld: Bringing up level for play took: 0.001768
+[2026.03.05-02.37.01:560][ 47]PIE: Server logged in
+[2026.03.05-02.37.01:560][ 47]PIE: Play in editor total start time 0.099 seconds.
+[2026.03.05-02.37.01:627][ 48]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-02.37.04:181][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-02.37.04:181][340]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-02.37.04:181][340]LogSlate: Window 'Substation9 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-02.37.04:185][340]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-02.37.04:186][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-02.37.04:186][340]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.05-02.37.04:187][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-02.37.04:191][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-02.37.04:212][340]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-02.37.04:213][340]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.05-02.37.04:213][340]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.03.05-02.37.04:214][340]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.03.05-02.37.04:214][340]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=41
+[2026.03.05-02.37.04:218][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.05-02.37.04:260][344]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.03.05-02.37.10:104][977]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/InteractionTester.InteractionTester_C
+[2026.03.05-02.37.10:104][977]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/InteractionTester.InteractionTester_C
+[2026.03.05-02.37.10:105][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:106][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:106][977]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/InteractionTester.InteractionTester as actor: InteractionTester_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.InteractionTester_C_0
+[2026.03.05-02.37.10:107][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:107][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:108][977]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/InteractionTester.InteractionTester as actor: InteractionTester_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.InteractionTester_C_0
+[2026.03.05-02.37.10:108][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:109][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:110][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:111][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:112][977]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.05-02.37.10:113][977]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:124][978]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:129][978]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:146][980]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:440][ 15]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:442][ 15]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:452][ 16]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:462][ 17]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:472][ 18]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:477][ 18]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:485][ 19]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:494][ 20]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:504][ 21]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:510][ 21]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:517][ 22]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:527][ 23]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:578][ 29]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:591][ 30]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:598][ 31]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:608][ 32]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:618][ 33]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:623][ 33]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:630][ 34]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:640][ 35]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:650][ 36]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:655][ 36]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:670][ 38]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:680][ 39]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:686][ 39]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:693][ 40]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:703][ 41]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:729][ 44]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:755][ 47]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:773][ 49]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:782][ 50]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:883][ 62]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:915][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.03.05-02.37.10:919][ 63]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.03.05-02.37.10:923][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/InteractionTester.InteractionTester_C
+[2026.03.05-02.37.10:923][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/InteractionTester.InteractionTester_C
+[2026.03.05-02.37.10:925][ 63]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:928][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/InteractionTester.InteractionTester as actor: InteractionTester_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031
+[2026.03.05-02.37.10:928][ 63]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:929][ 63]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:930][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/InteractionTester.InteractionTester as actor: InteractionTester_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031
+[2026.03.05-02.37.10:930][ 63]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:932][ 63]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:933][ 63]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.10:934][ 63]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.13:910][382]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.13:939][385]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.13:968][388]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.13:988][390]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.14:009][392]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.14:038][395]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.14:058][397]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.14:204][414]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.14:614][463]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:134][523]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:147][524]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:167][526]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:180][527]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:193][528]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:206][529]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:219][530]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:232][531]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:245][532]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:441][555]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:470][558]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:541][566]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:587][571]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.15:731][588]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-02.37.16:768][706]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-02.37.16:773][706]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-02.37.16:773][706]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.05-02.37.16:773][706]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 637 us (total: 23.094 ms)
+[2026.03.05-02.37.16:773][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-02.37.16:816][706]LogPlayLevel: Display: Creating online subsystem for client :Context_52
+[2026.03.05-02.37.16:817][706]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.03.05-02.37.16:833][707]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-02.37.16:837][707]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-02.37.16:837][707]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 764 us (total: 30.632 ms)
+[2026.03.05-02.37.16:837][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004650s)
+[2026.03.05-02.37.16:837][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.004680s)
+[2026.03.05-02.37.16:858][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.05-02.37.16:862][707]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.05-02.37.16:864][707]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-02.37.16:864][707]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-02.37.16:864][707]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-02.37.16:864][707]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-02.37.16:865][707]LogWorldPartition: Display: WorldPartition initialize took 1.099 ms (total: 342.556 ms)
+[2026.03.05-02.37.16:865][707]LogPlayLevel: PIE: World Init took: (0.002477s)
+[2026.03.05-02.37.16:865][707]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.03.05-02.37.16:865][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-02.37.16:865][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-02.37.16:865][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-02.37.16:865][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-02.37.16:865][707]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-02.37.16:865][707]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-02.37.16:865][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-02.37.16:865][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-02.37.16:865][707]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-02.37.16:865][707]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-02.37.16:865][707]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-02.37.16:867][707]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-02.37.16:877][707]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.05-02.37.16:877][707]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-02.37.16:877][707]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-02.37.16:877][707]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-02.37.16:877][707]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.03.05-02.37.16:877][707]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=42
+[2026.03.05-02.37.16:877][707]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2026.03.05-02.37.16:877][707]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18548
+[2026.03.05-02.37.16:877][707]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=42
+[2026.03.05-02.37.16:879][707]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.03.05-02.37.16:879][707]LogInit: FAudioDevice initialized with ID 42.
+[2026.03.05-02.37.16:879][707]LogAudio: Display: Audio Device (ID: 42) registered with world 'Lvl_FirstPerson'.
+[2026.03.05-02.37.16:879][707]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.03.05-02.37.16:882][707]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.05-02.37.16:884][707]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.04-18.37.16
+[2026.03.05-02.37.16:884][707]LogWorld: Bringing up level for play took: 0.001826
+[2026.03.05-02.37.16:889][707]PIE: Server logged in
+[2026.03.05-02.37.16:890][707]PIE: Play in editor total start time 0.118 seconds.
+[2026.03.05-02.37.16:948][708]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-02.37.19:117][960]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] true
+[2026.03.05-02.37.19:359][989]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] false
+[2026.03.05-02.37.19:600][ 18]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] true
+[2026.03.05-02.37.21:125][201]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] false
+[2026.03.05-02.37.22:001][306]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] true
+[2026.03.05-02.37.22:718][392]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] false
+[2026.03.05-02.37.23:768][518]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] true
+[2026.03.05-02.37.24:551][612]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] false
+[2026.03.05-02.37.25:119][678]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] true
+[2026.03.05-02.37.26:710][869]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] false
+[2026.03.05-02.37.27:251][934]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] true
+[2026.03.05-02.37.27:668][984]LogBlueprintUserMessages: [ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT_0] false
+[2026.03.05-02.37.28:526][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-02.37.28:526][ 82]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-02.37.28:526][ 82]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-02.37.28:527][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-02.37.28:527][ 82]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.05-02.37.28:528][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-02.37.28:533][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-02.37.28:551][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-02.37.28:551][ 82]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.03.05-02.37.28:551][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.03.05-02.37.28:553][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.03.05-02.37.28:553][ 82]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=42
+[2026.03.05-02.37.28:554][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-02.37.28:557][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.05-02.37.28:596][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.03.05-02.37.37:892][279]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8359.336914
+[2026.03.05-02.37.38:921][282]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-02.37.38:921][282]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8360.023438, Update Interval: 304.757233
+[2026.03.05-02.38.23:838][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-02.38.23:878][813]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_InteractionArea] ([2] browsable assets)...
+[2026.03.05-02.38.23:878][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_InteractionArea]
+[2026.03.05-02.38.23:878][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_InteractionArea" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BP_InteractionArea.uasset" SILENT=true
+[2026.03.05-02.38.23:888][813]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_InteractionArea
+[2026.03.05-02.38.23:888][813]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BP_InteractionArea257F69684FCC4BDA397D8AAB63ABBB5C.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BP_InteractionArea.uasset'
+[2026.03.05-02.38.23:894][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.358 ms (total: 1.97 sec)
+[2026.03.05-02.38.23:925][813]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-02.38.23:925][813]LogContentValidation: Enabled validators:
+[2026.03.05-02.38.23:925][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-02.38.23:925][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-02.38.23:925][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-02.38.23:925][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-02.38.23:925][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-02.38.23:925][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-02.38.23:925][813]AssetCheck: /Game/Blueprints/BP_InteractionArea Validating asset
+[2026.03.05-02.38.29:905][917]LogDerivedDataCache: C:/Users/Conor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.05-02.38.58:455][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interact.Interact
+[2026.03.05-02.38.58:456][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.05-02.39.14:209][884]LogContentBrowser: Attempting asset rename: Interact -> BI_Interaction
+[2026.03.05-02.39.14:281][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-02.39.14:282][884]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-02.39.14:338][884]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-02.39.14:338][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-02.39.14:338][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InteractionTester" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset" SILENT=true
+[2026.03.05-02.39.14:346][884]LogSavePackage: Moving output files for package: /Game/Blueprints/InteractionTester
+[2026.03.05-02.39.14:346][884]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTester4B2EF286450A713F85CAE693A51DC671.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset'
+[2026.03.05-02.39.14:347][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BI_Interaction] ([2] browsable assets)...
+[2026.03.05-02.39.14:347][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BI_Interaction]
+[2026.03.05-02.39.14:347][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BI_Interaction" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BI_Interaction.uasset" SILENT=true
+[2026.03.05-02.39.14:352][884]LogSavePackage: Moving output files for package: /Game/Blueprints/BI_Interaction
+[2026.03.05-02.39.14:352][884]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BI_Interaction875C02814E23E909F50965BCF83F537C.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BI_Interaction.uasset'
+[2026.03.05-02.39.14:357][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.100 ms (total: 2.04 sec)
+[2026.03.05-02.39.14:405][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.05-02.39.14:427][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.05-02.39.14:447][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.05-02.39.14:502][884]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.05-02.39.14:502][884]LogContentValidation: Enabled validators:
+[2026.03.05-02.39.14:502][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-02.39.14:502][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-02.39.14:502][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-02.39.14:502][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-02.39.14:502][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-02.39.14:502][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-02.39.14:503][884]AssetCheck: /Game/Blueprints/InteractionTester Validating asset
+[2026.03.05-02.39.14:503][884]AssetCheck: /Game/Blueprints/BI_Interaction Validating asset
+[2026.03.05-02.39.14:553][884]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-02.43.35:888][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8717.933594
+[2026.03.05-02.43.36:005][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-02.43.36:005][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8718.041992, Update Interval: 328.984650
+[2026.03.05-02.46.51:408][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.05-02.46.51:420][899]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA_Auto9
+[2026.03.05-02.46.51:420][899]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/CDCXUPSAWEYJNISYAYWGQA_Auto94149F2494A15F3B818C5F5895B6FBC07.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA_Auto9.uasset'
+[2026.03.05-02.46.51:421][899]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.035
+[2026.03.05-02.46.51:421][899]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2026.03.05-02.46.51:422][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.05-02.46.51:490][899]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.05-02.46.51:490][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.05-02.46.51:512][899]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9
+[2026.03.05-02.46.51:512][899]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BP_FirstPersonCharacter_Auto98ACBAA104CA3A76835A7C5AB91F77CDE.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9.uasset'
+[2026.03.05-02.46.51:513][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BI_Interaction] ([2] browsable assets)...
+[2026.03.05-02.46.51:513][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BI_Interaction]
+[2026.03.05-02.46.51:518][899]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BI_Interaction_Auto9
+[2026.03.05-02.46.51:518][899]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BI_Interaction_Auto9AFA273E044D1C0BE3AD805B645D1BBCD.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/Autosaves/Game/Blueprints/BI_Interaction_Auto9.uasset'
+[2026.03.05-02.46.51:518][899]LogFileHelpers: Auto-saving content packages took 0.098
+[2026.03.05-02.49.41:285][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9084.604492
+[2026.03.05-02.49.41:410][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-02.49.41:410][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9084.719727, Update Interval: 349.300812
+[2026.03.05-02.56.04:922][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9469.838867
+[2026.03.05-02.56.05:047][299]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-02.56.05:047][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9469.958984, Update Interval: 312.931305
+[2026.03.05-17.41.02:506][490]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-52774280ms], ThreadID=18668
+[2026.03.05-17.41.02:506][490]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.05-17.41.03:673][490]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.05-17.41.04:368][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 62570.671875
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00: libcurl info message cache 0 (Too old connection (52785 seconds idle), disconnect it)
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00: libcurl info message cache 1 (Connection 3 seems to be dead)
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00: libcurl info message cache 2 (shutting down connection #3)
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00: libcurl info message cache 7 (shutting down connection #4)
+[2026.03.05-17.41.04:696][492]LogHttp: Warning: 000001DC794BCB00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA96B703-4B7F-BCAB-5501-6EB716998E7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=7cca08114224e15c57891891a33b40b1%7Cc68ee544c2a344f49b9f36174c8c52c9%7Ca9dc1c90-b098-4ede-b240-9315fefd9dc6&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.12s
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 0 (Found bundle for host: 0x1db8c8805d0 [serially])
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 2 (Closing connection)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6E848EB7-47CE-EED5-B466-959B53767BDD%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: libcurl info message cache 0 (Found bundle for host: 0x1db8c8805d0 [serially])
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: libcurl info message cache 2 (Closing connection)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 0 (Too old connection (52786 seconds idle), disconnect it)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 1 (Connection 4 seems to be dead)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 2 (Closing connection)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 7 (Closing connection)
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6E848EB7-47CE-EED5-B466-959B53767BDD%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-17.41.04:697][492]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-17.41.04:773][492]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61104'.
+[2026.03.05-17.41.04:789][492]Could not fetch the local adapter addresses
+[2026.03.05-17.41.04:789][492]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.05-17.41.04:810][492]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.03.05-17.41.05:024][493]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.05-17.41.06:029][496]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-17.41.06:029][496]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-17.41.06:362][497]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-17.41.06:362][497]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-17.41.06:362][497]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-17.41.06:362][497]LogEOSSDK: Warning: LogHttp: 000001DBCC173000: libcurl info message cache 9 (Closing connection)
+[2026.03.05-17.41.06:362][497]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-17.41.06:362][497]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-17.41.06:362][497]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 3 (Found bundle for host: 0x1db8c880150 [serially])
+[2026.03.05-17.41.06:362][497]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-17.41.06:362][497]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 5 (Closing connection)
+[2026.03.05-17.41.06:362][498]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-17.41.06:362][498]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-17.41.07:713][498]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63181'.
+[2026.03.05-17.41.07:716][498]LogUdpMessaging: Display: Added local interface '192.168.0.89' to multicast group '230.0.0.1:6666'
+[2026.03.05-17.41.07:720][498]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.03.05-17.41.07:728][499]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-17.41.07:728][499]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-17.41.08:061][500]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-17.41.08:061][500]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-17.41.09:394][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 62575.375000
+[2026.03.05-17.41.09:396][504]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -793980976
+[2026.03.05-17.41.09:396][504]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 62575.375000, Update Interval: 354.774017
+[2026.03.05-17.47.04:461][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 62929.980469
+[2026.03.05-17.47.05:461][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-17.47.05:461][572]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 62930.644531, Update Interval: 352.823883
+[2026.03.05-17.53.01:525][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 63286.156250
+[2026.03.05-17.53.02:525][643]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-17.53.02:525][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 63286.824219, Update Interval: 339.346893
+[2026.03.05-22.28.32:510][271]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-16320404ms], ThreadID=18668
+[2026.03.05-22.28.32:510][271]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.05-22.28.33:361][271]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900: libcurl info message cache 0 (Too old connection (16332 seconds idle), disconnect it)
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900: libcurl info message cache 1 (Connection 5 seems to be dead)
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900: libcurl info message cache 2 (shutting down connection #5)
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900: libcurl info message cache 7 (shutting down connection #6)
+[2026.03.05-22.28.34:663][273]LogHttp: Warning: 000001DC794B6900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA96B703-4B7F-BCAB-5501-6EB716998E7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=7cca08114224e15c57891891a33b40b1%7Cc68ee544c2a344f49b9f36174c8c52c9%7Ca9dc1c90-b098-4ede-b240-9315fefd9dc6&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.02s
+[2026.03.05-22.28.34:663][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6E848EB7-47CE-EED5-B466-959B53767BDD%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-22.28.34:663][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-22.28.34:663][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 0 (Too old connection (16335 seconds idle), disconnect it)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 1 (Connection 11 seems to be dead)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 2 (Closing connection)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17DE00: libcurl info message cache 7 (Closing connection)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: libcurl info message cache 0 (Found bundle for host: 0x1db8c880210 [serially])
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: libcurl info message cache 2 (Closing connection)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: libcurl info message cache 0 (Found bundle for host: 0x1db8c880210 [serially])
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: libcurl info message cache 2 (Closing connection)
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-22.28.34:664][273]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-22.28.34:995][274]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B6E848EB7-47CE-EED5-B466-959B53767BDD%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.03.05-22.28.35:474][275]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57684'.
+[2026.03.05-22.28.35:478][275]Could not fetch the local adapter addresses
+[2026.03.05-22.28.35:478][275]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.03.05-22.28.35:482][275]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.03.05-22.28.35:658][276]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.03.05-22.28.35:994][278]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-22.28.35:994][278]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-22.28.36:327][278]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-22.28.36:328][278]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-22.28.36:328][278]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: libcurl info message cache 3 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-22.28.36:328][278]LogEOSSDK: Warning: LogHttp: 000001DBCC17CC00: libcurl info message cache 4 (Closing connection)
+[2026.03.05-22.28.36:328][278]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.05-22.28.36:328][278]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2026.03.05-22.28.36:328][278]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: libcurl info message cache 3 (Found bundle for host: 0x1db8c8806f0 [serially])
+[2026.03.05-22.28.36:328][278]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2026.03.05-22.28.36:328][278]LogEOSSDK: Warning: LogHttp: 000001DBCC17D800: libcurl info message cache 5 (Closing connection)
+[2026.03.05-22.28.36:328][278]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-22.28.36:328][279]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-22.28.37:328][281]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-22.28.37:328][281]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-22.28.37:590][281]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64773'.
+[2026.03.05-22.28.37:592][281]LogUdpMessaging: Display: Added local interface '192.168.0.89' to multicast group '230.0.0.1:6666'
+[2026.03.05-22.28.37:595][281]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.03.05-22.28.37:662][282]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.05-22.28.37:662][282]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=D3E548B94050E095538CC1B13E3E92B7
+[2026.03.05-22.28.39:328][287]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 79823.765625
+[2026.03.05-22.28.40:327][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-22.28.40:327][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79824.437500, Update Interval: 352.552856
+[2026.03.05-22.28.49:481][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.05-22.28.49:489][914]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.28.49:490][914]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.28.49:491][914]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.28.49:508][914]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.28.49:509][914]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.28.49:510][914]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.29.26:012][148]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.29.26:035][149]LogStreaming: Display: FlushAsyncLoading(598): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-22.29.26:049][149]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/InteractionTester.InteractionTester'
+[2026.03.05-22.31.35:963][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-22.31.35:992][675]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BI_Interaction] ([2] browsable assets)...
+[2026.03.05-22.31.35:992][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BI_Interaction]
+[2026.03.05-22.31.35:992][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BI_Interaction" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BI_Interaction.uasset" SILENT=true
+[2026.03.05-22.31.36:001][675]LogSavePackage: Moving output files for package: /Game/Blueprints/BI_Interaction
+[2026.03.05-22.31.36:002][675]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BI_InteractionDD723CBB4ED00953FF6A0AAF91430886.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BI_Interaction.uasset'
+[2026.03.05-22.31.36:008][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.084 ms (total: 2.09 sec)
+[2026.03.05-22.31.36:053][675]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-22.31.36:053][675]LogContentValidation: Enabled validators:
+[2026.03.05-22.31.36:053][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-22.31.36:053][675]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-22.31.36:053][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-22.31.36:053][675]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-22.31.36:053][675]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-22.31.36:053][675]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-22.31.36:053][675]AssetCheck: /Game/Blueprints/BI_Interaction Validating asset
+[2026.03.05-22.32.21:101][217]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.21:102][217]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.21:103][217]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:524][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:525][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:525][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:560][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.05-22.32.38:563][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:564][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:565][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:566][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:569][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:570][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.38:571][468]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.41:594][811]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-22.32.41:598][811]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-22.32.41:598][811]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.05-22.32.41:599][811]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 644 us (total: 23.738 ms)
+[2026.03.05-22.32.41:599][811]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2026.03.05-22.32.41:672][811]LogPlayLevel: [PlayLevel] Compiling BP_InteractionArea before play...
+[2026.03.05-22.32.41:700][811]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.41:700][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_169.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.32.41:700][811]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.41:701][811]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.32.41:702][811]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.41:702][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_169.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.32.41:705][811]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.41:705][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_170.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.32.41:706][811]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.41:706][811]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_80.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.32.41:707][811]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.32.41:707][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_170.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.32.41:730][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.05-22.32.41:734][811]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (2 blueprints)
+[2026.03.05-22.32.41:769][811]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2026.03.05-22.32.41:771][811]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.03.05-22.32.41:792][812]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-22.32.41:796][812]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-22.32.41:797][812]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 744 us (total: 31.376 ms)
+[2026.03.05-22.32.41:797][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004694s)
+[2026.03.05-22.32.41:797][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.004727s)
+[2026.03.05-22.32.41:817][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.05-22.32.41:821][812]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.05-22.32.41:822][812]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-22.32.41:822][812]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-22.32.41:822][812]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-22.32.41:822][812]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-22.32.41:823][812]LogWorldPartition: Display: WorldPartition initialize took 1.138 ms (total: 343.694 ms)
+[2026.03.05-22.32.41:823][812]LogPlayLevel: PIE: World Init took: (0.002535s)
+[2026.03.05-22.32.41:824][812]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.03.05-22.32.41:824][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-22.32.41:824][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-22.32.41:824][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-22.32.41:824][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-22.32.41:824][812]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-22.32.41:824][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-22.32.41:824][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-22.32.41:824][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-22.32.41:824][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-22.32.41:824][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-22.32.41:824][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-22.32.41:826][812]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-22.32.41:835][812]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.05-22.32.41:835][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-22.32.41:836][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-22.32.41:836][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-22.32.41:836][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.03.05-22.32.41:836][812]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=43
+[2026.03.05-22.32.41:836][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2026.03.05-22.32.41:836][812]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6600
+[2026.03.05-22.32.41:836][812]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=43
+[2026.03.05-22.32.41:838][812]LogInit: FAudioDevice initialized with ID 43.
+[2026.03.05-22.32.41:838][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.03.05-22.32.41:838][812]LogAudio: Display: Audio Device (ID: 43) registered with world 'Lvl_FirstPerson'.
+[2026.03.05-22.32.41:838][812]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.03.05-22.32.41:841][812]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.05-22.32.41:843][812]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.05-14.32.41
+[2026.03.05-22.32.41:844][812]LogWorld: Bringing up level for play took: 0.001879
+[2026.03.05-22.32.41:848][812]PIE: Server logged in
+[2026.03.05-22.32.41:850][812]PIE: Play in editor total start time 0.252 seconds.
+[2026.03.05-22.32.41:922][813]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-22.32.49:729][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-22.32.49:729][737]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-22.32.49:729][737]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-22.32.49:730][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-22.32.49:730][737]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.05-22.32.49:731][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-22.32.49:736][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-22.32.49:756][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-22.32.49:757][737]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.03.05-22.32.49:757][737]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.03.05-22.32.49:758][737]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.03.05-22.32.49:758][737]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=43
+[2026.03.05-22.32.49:762][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.05-22.32.49:802][738]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.03.05-22.34.02:197][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-22.34.02:241][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_InteractionArea] ([2] browsable assets)...
+[2026.03.05-22.34.02:241][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_InteractionArea]
+[2026.03.05-22.34.02:241][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_InteractionArea" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BP_InteractionArea.uasset" SILENT=true
+[2026.03.05-22.34.02:252][163]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_InteractionArea
+[2026.03.05-22.34.02:252][163]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BP_InteractionAreaB353CE6E4196046A9132AD8A596F44F5.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BP_InteractionArea.uasset'
+[2026.03.05-22.34.02:258][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.315 ms (total: 2.15 sec)
+[2026.03.05-22.34.02:305][163]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-22.34.02:305][163]LogContentValidation: Enabled validators:
+[2026.03.05-22.34.02:305][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-22.34.02:305][163]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-22.34.02:305][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-22.34.02:305][163]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-22.34.02:305][163]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-22.34.02:305][163]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-22.34.02:305][163]AssetCheck: /Game/Blueprints/BP_InteractionArea Validating asset
+[2026.03.05-22.34.03:147][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-22.34.03:156][254]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.03:156][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_171.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.34.03:157][254]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.03:157][254]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.34.03:158][254]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.03:158][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_171.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.34.03:162][254]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.03:162][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_172.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.34.03:162][254]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.03:163][254]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_82.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.34.03:163][254]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.03:164][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_InteractionArea_C_CHILDACTOR_172.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-22.34.03:607][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-22.34.03:654][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_InteractionArea] ([2] browsable assets)...
+[2026.03.05-22.34.03:654][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_InteractionArea]
+[2026.03.05-22.34.03:654][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_InteractionArea" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BP_InteractionArea.uasset" SILENT=true
+[2026.03.05-22.34.03:663][304]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_InteractionArea
+[2026.03.05-22.34.03:663][304]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BP_InteractionAreaE2DADF3E4C98DD75916A43BB70974470.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/BP_InteractionArea.uasset'
+[2026.03.05-22.34.03:669][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.807 ms (total: 2.21 sec)
+[2026.03.05-22.34.03:708][304]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-22.34.03:708][304]LogContentValidation: Enabled validators:
+[2026.03.05-22.34.03:708][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-22.34.03:708][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-22.34.03:708][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-22.34.03:708][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-22.34.03:708][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-22.34.03:708][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-22.34.03:708][304]AssetCheck: /Game/Blueprints/BP_InteractionArea Validating asset
+[2026.03.05-22.34.06:037][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:038][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:038][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:071][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.05-22.34.06:077][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:078][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:078][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:080][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:083][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:084][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:085][570]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.34.06:449][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-22.34.06:481][604]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/InteractionTester] ([2] browsable assets)...
+[2026.03.05-22.34.06:551][604]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractionTester.InteractionTester]
+[2026.03.05-22.34.06:551][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractionTester]
+[2026.03.05-22.34.06:551][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InteractionTester" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset" SILENT=true
+[2026.03.05-22.34.06:561][604]LogSavePackage: Moving output files for package: /Game/Blueprints/InteractionTester
+[2026.03.05-22.34.06:561][604]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/InteractionTester9AE3CCA04F1ACBCEEF6280A42079E791.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/InteractionTester.uasset'
+[2026.03.05-22.34.06:568][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.180 ms (total: 2.33 sec)
+[2026.03.05-22.34.06:604][604]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-22.34.06:604][604]LogContentValidation: Enabled validators:
+[2026.03.05-22.34.06:604][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-22.34.06:604][604]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-22.34.06:604][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-22.34.06:604][604]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-22.34.06:604][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-22.34.06:604][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-22.34.06:604][604]AssetCheck: /Game/Blueprints/InteractionTester Validating asset
+[2026.03.05-22.34.29:939][262]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-22.34.29:944][262]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-22.34.29:944][262]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.05-22.34.29:944][262]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 565 us (total: 24.304 ms)
+[2026.03.05-22.34.29:944][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-22.34.29:944][262]LogPlayLevel: Display: Creating online subsystem for client :Context_55
+[2026.03.05-22.34.29:947][262]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2026.03.05-22.34.29:953][263]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-22.34.29:957][263]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-22.34.29:957][263]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 733 us (total: 32.110 ms)
+[2026.03.05-22.34.29:957][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004768s)
+[2026.03.05-22.34.29:957][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.004809s)
+[2026.03.05-22.34.29:978][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.05-22.34.29:981][263]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.05-22.34.29:983][263]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-22.34.29:983][263]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-22.34.29:983][263]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-22.34.29:983][263]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-22.34.29:984][263]LogWorldPartition: Display: WorldPartition initialize took 1.105 ms (total: 344.799 ms)
+[2026.03.05-22.34.29:984][263]LogPlayLevel: PIE: World Init took: (0.002588s)
+[2026.03.05-22.34.29:984][263]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2026.03.05-22.34.29:984][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-22.34.29:984][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-22.34.29:984][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-22.34.29:985][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-22.34.29:985][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-22.34.29:985][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-22.34.29:985][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-22.34.29:985][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-22.34.29:985][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-22.34.29:985][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-22.34.29:985][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-22.34.29:986][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-22.34.29:996][263]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.05-22.34.29:996][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-22.34.29:996][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-22.34.29:996][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-22.34.29:996][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2026.03.05-22.34.29:996][263]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=44
+[2026.03.05-22.34.29:996][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2026.03.05-22.34.29:996][263]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20180
+[2026.03.05-22.34.29:996][263]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=44
+[2026.03.05-22.34.29:998][263]LogInit: FAudioDevice initialized with ID 44.
+[2026.03.05-22.34.29:998][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2026.03.05-22.34.29:998][263]LogAudio: Display: Audio Device (ID: 44) registered with world 'Lvl_FirstPerson'.
+[2026.03.05-22.34.29:998][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2026.03.05-22.34.30:036][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-22.34.30:037][263]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.05-22.34.30:039][263]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.05-14.34.30
+[2026.03.05-22.34.30:039][263]LogWorld: Bringing up level for play took: 0.002097
+[2026.03.05-22.34.30:045][263]PIE: Server logged in
+[2026.03.05-22.34.30:046][263]PIE: Play in editor total start time 0.102 seconds.
+[2026.03.05-22.34.30:125][264]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-22.34.33:498][649]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.34.33:557][656]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.34.33:707][674]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.34.34:040][714]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.34.34:099][721]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.34.35:299][864]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.34.35:599][900]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.34.36:052][954]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.34.36:346][989]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.34.36:885][ 53]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.34.37:740][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-22.34.37:740][150]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-22.34.37:740][150]LogSlate: Window 'Substation9 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.05-22.34.37:745][150]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-22.34.37:746][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-22.34.37:746][150]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.05-22.34.37:747][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-22.34.37:752][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-22.34.37:773][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.05-22.34.37:773][150]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2026.03.05-22.34.37:773][150]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2026.03.05-22.34.37:775][150]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2026.03.05-22.34.37:775][150]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=44
+[2026.03.05-22.34.37:778][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.05-22.34.37:817][152]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2026.03.05-22.34.41:154][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80174.484375
+[2026.03.05-22.34.42:172][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-22.34.42:172][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80175.164062, Update Interval: 327.671753
+[2026.03.05-22.36.10:907][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-22.36.11:397][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-22.36.11:447][860]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-22.36.11:447][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-22.36.11:447][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-22.36.11:463][860]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-22.36.11:464][860]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace8A99F0A94C16FD7AD7EFE893B1EE43BC.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-22.36.11:470][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.219 ms (total: 2.40 sec)
+[2026.03.05-22.36.11:521][860]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-22.36.11:521][860]LogContentValidation: Enabled validators:
+[2026.03.05-22.36.11:521][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-22.36.11:521][860]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-22.36.11:521][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-22.36.11:521][860]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-22.36.11:521][860]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-22.36.11:521][860]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-22.36.11:521][860]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-22.36.13:219][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-22.36.13:225][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-22.36.13:276][ 45]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA
+[2026.03.05-22.36.13:276][ 45]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/CDCXUPSAWEYJNISYAYWGQA51E0469F4A5A9398A4385CAB61BFE299.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8E/CDCXUPSAWEYJNISYAYWGQA.uasset'
+[2026.03.05-22.36.13:279][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.05-22.36.13:356][ 45]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.05-22.36.13:356][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.05-22.36.13:377][ 45]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.05-22.36.13:377][ 45]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/BP_FirstPersonCharacterB83E7236403ABD5F7B89D3ADAB27E6AC.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.05-22.36.13:384][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.698 ms (total: 2.56 sec)
+[2026.03.05-22.36.13:426][ 45]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.05-22.36.13:426][ 45]LogContentValidation: Enabled validators:
+[2026.03.05-22.36.13:426][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-22.36.13:426][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-22.36.13:426][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-22.36.13:426][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-22.36.13:426][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-22.36.13:426][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-22.36.13:426][ 45]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.03.05-22.36.13:426][ 45]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.05-22.36.13:433][ 45]LogActor: Loaded Actor (ChildActor_GEN_VARIABLE_BP_InteractionArea_C_CAT) with IsValid() == false
+[2026.03.05-22.36.13:441][ 45]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-22.36.18:817][483]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-22.36.18:822][483]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-22.36.18:822][483]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.05-22.36.18:822][483]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 585 us (total: 24.889 ms)
+[2026.03.05-22.36.18:822][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-22.36.18:857][483]LogPlayLevel: Display: Creating online subsystem for client :Context_56
+[2026.03.05-22.36.18:859][483]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2026.03.05-22.36.18:872][484]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-22.36.18:876][484]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-22.36.18:877][484]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 773 us (total: 32.883 ms)
+[2026.03.05-22.36.18:877][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004713s)
+[2026.03.05-22.36.18:877][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.004744s)
+[2026.03.05-22.36.18:896][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.05-22.36.18:901][484]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.05-22.36.18:902][484]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-22.36.18:902][484]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-22.36.18:902][484]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-22.36.18:902][484]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-22.36.18:903][484]LogWorldPartition: Display: WorldPartition initialize took 1.131 ms (total: 345.931 ms)
+[2026.03.05-22.36.18:903][484]LogPlayLevel: PIE: World Init took: (0.002482s)
+[2026.03.05-22.36.18:904][484]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2026.03.05-22.36.18:904][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-22.36.18:904][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-22.36.18:904][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-22.36.18:904][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-22.36.18:904][484]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-22.36.18:904][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-22.36.18:904][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-22.36.18:904][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-22.36.18:904][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-22.36.18:904][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-22.36.18:904][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-22.36.18:906][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-22.36.18:917][484]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.05-22.36.18:917][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-22.36.18:917][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-22.36.18:917][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-22.36.18:917][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2026.03.05-22.36.18:917][484]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=45
+[2026.03.05-22.36.18:917][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2026.03.05-22.36.18:917][484]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19624
+[2026.03.05-22.36.18:917][484]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=45
+[2026.03.05-22.36.18:919][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2026.03.05-22.36.18:919][484]LogInit: FAudioDevice initialized with ID 45.
+[2026.03.05-22.36.18:919][484]LogAudio: Display: Audio Device (ID: 45) registered with world 'Lvl_FirstPerson'.
+[2026.03.05-22.36.18:919][484]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.05-22.36.18:922][484]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.05-22.36.18:924][484]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.05-14.36.18
+[2026.03.05-22.36.18:924][484]LogWorld: Bringing up level for play took: 0.001765
+[2026.03.05-22.36.18:929][484]PIE: Server logged in
+[2026.03.05-22.36.18:930][484]PIE: Play in editor total start time 0.109 seconds.
+[2026.03.05-22.36.18:994][485]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-22.36.21:906][826]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.36.22:481][895]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.36.22:898][945]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.36.23:140][974]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.36.23:315][995]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.36.23:464][ 13]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.36.23:590][ 28]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.36.23:648][ 35]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.36.23:740][ 46]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.05-22.36.23:857][ 60]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.05-22.36.24:187][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-22.36.24:187][ 95]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.05-22.36.24:187][ 95]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-22.36.24:188][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-22.36.24:188][ 95]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.05-22.36.24:189][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-22.36.24:194][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-22.36.24:214][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-22.36.24:214][ 95]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.05-22.36.24:214][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2026.03.05-22.36.24:215][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2026.03.05-22.36.24:215][ 95]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=45
+[2026.03.05-22.36.24:219][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.05-22.36.24:261][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2026.03.05-22.36.31:674][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
