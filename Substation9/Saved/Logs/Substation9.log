@@ -10960,3 +10960,481 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.05-23.54.46:127][ 75]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=64
 [2026.03.05-23.54.46:131][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2026.03.05-23.54.46:185][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2026.03.05-23.55.28:478][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84898.039062
+[2026.03.05-23.55.28:612][187]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-23.55.28:612][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84898.164062, Update Interval: 342.397522
+[2026.03.05-23.56.14:918][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.56.14:949][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-23.56.14:949][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-23.56.14:949][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-23.56.14:969][116]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-23.56.14:970][116]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace1E96412546AF2E7B9741638053089932.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-23.56.14:976][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.166 ms (total: 4.76 sec)
+[2026.03.05-23.56.15:010][116]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.56.15:010][116]LogContentValidation: Enabled validators:
+[2026.03.05-23.56.15:010][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.56.15:010][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.56.15:010][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.56.15:010][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.56.15:010][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.56.15:010][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.56.15:010][116]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-23.56.15:744][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.05-23.56.16:202][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.56.16:246][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-23.56.16:246][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-23.56.16:246][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-23.56.16:265][236]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-23.56.16:266][236]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace54B56DD54ADEBAEFE2C5EB880C0AE6E9.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-23.56.16:272][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.477 ms (total: 4.83 sec)
+[2026.03.05-23.56.16:318][236]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.56.16:318][236]LogContentValidation: Enabled validators:
+[2026.03.05-23.56.16:318][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.56.16:318][236]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.56.16:318][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.56.16:318][236]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.56.16:318][236]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.56.16:318][236]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.56.16:318][236]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-23.58.19:768][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-23.58.19:803][805]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.05-23.58.19:803][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.05-23.58.19:803][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.05-23.58.19:823][805]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.05-23.58.19:823][805]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace3FD984AC44F61C937FF8BAAB5C9C46DC.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.05-23.58.19:831][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.660 ms (total: 4.90 sec)
+[2026.03.05-23.58.19:876][805]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-23.58.19:876][805]LogContentValidation: Enabled validators:
+[2026.03.05-23.58.19:876][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-23.58.19:876][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-23.58.19:876][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-23.58.19:876][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-23.58.19:876][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-23.58.19:876][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-23.58.19:876][805]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.05-23.58.20:577][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.06-00.01.27:265][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-00.01.27:300][188]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.06-00.01.27:300][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.06-00.01.27:300][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.06-00.01.27:322][188]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.06-00.01.27:323][188]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTraceFF5814E841BCDC0CEE88348CC18799BA.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.06-00.01.27:329][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.220 ms (total: 4.96 sec)
+[2026.03.06-00.01.27:373][188]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-00.01.27:373][188]LogContentValidation: Enabled validators:
+[2026.03.06-00.01.27:373][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-00.01.27:373][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-00.01.27:373][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-00.01.27:373][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-00.01.27:373][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-00.01.27:373][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-00.01.27:373][188]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.06-00.01.28:133][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.06-00.01.28:508][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-00.01.28:550][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.06-00.01.28:550][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.06-00.01.28:550][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.06-00.01.28:572][304]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.06-00.01.28:572][304]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTrace0DBDEBFB4BF018D9248D26BE8995E0E9.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.06-00.01.28:579][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.612 ms (total: 5.03 sec)
+[2026.03.06-00.01.28:623][304]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-00.01.28:623][304]LogContentValidation: Enabled validators:
+[2026.03.06-00.01.28:623][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-00.01.28:623][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-00.01.28:623][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-00.01.28:623][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-00.01.28:623][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-00.01.28:623][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-00.01.28:623][304]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.06-00.01.43:701][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.06-00.01.43:705][604]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.06-00.01.43:705][604]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.06-00.01.43:706][604]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 590 us (total: 37.446 ms)
+[2026.03.06-00.01.43:706][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.06-00.01.43:706][604]LogPlayLevel: Display: Creating online subsystem for client :Context_76
+[2026.03.06-00.01.43:708][604]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2026.03.06-00.01.43:715][605]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.06-00.01.43:719][605]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.06-00.01.43:720][605]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 795 us (total: 48.202 ms)
+[2026.03.06-00.01.43:720][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004735s)
+[2026.03.06-00.01.43:720][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.004767s)
+[2026.03.06-00.01.43:741][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.06-00.01.43:746][605]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.06-00.01.43:747][605]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.06-00.01.43:747][605]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.06-00.01.43:747][605]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.06-00.01.43:747][605]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.06-00.01.43:748][605]LogWorldPartition: Display: WorldPartition initialize took 1.130 ms (total: 369.307 ms)
+[2026.03.06-00.01.43:748][605]LogPlayLevel: PIE: World Init took: (0.002612s)
+[2026.03.06-00.01.43:749][605]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2026.03.06-00.01.43:749][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.06-00.01.43:749][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.06-00.01.43:749][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.06-00.01.43:749][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.06-00.01.43:749][605]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.06-00.01.43:749][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.06-00.01.43:749][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.06-00.01.43:749][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.06-00.01.43:749][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.06-00.01.43:749][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.06-00.01.43:749][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.06-00.01.43:751][605]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.06-00.01.43:761][605]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.06-00.01.43:761][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.06-00.01.43:761][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.06-00.01.43:761][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.06-00.01.43:762][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2026.03.06-00.01.43:762][605]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=65
+[2026.03.06-00.01.43:762][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2026.03.06-00.01.43:762][605]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20412
+[2026.03.06-00.01.43:762][605]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=65
+[2026.03.06-00.01.43:763][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2026.03.06-00.01.43:763][605]LogInit: FAudioDevice initialized with ID 65.
+[2026.03.06-00.01.43:763][605]LogAudio: Display: Audio Device (ID: 65) registered with world 'Lvl_FirstPerson'.
+[2026.03.06-00.01.43:763][605]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2026.03.06-00.01.43:807][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.06-00.01.43:807][605]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.06-00.01.43:810][605]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.05-16.01.43
+[2026.03.06-00.01.43:810][605]LogWorld: Bringing up level for play took: 0.002187
+[2026.03.06-00.01.43:816][605]PIE: Server logged in
+[2026.03.06-00.01.43:817][605]PIE: Play in editor total start time 0.112 seconds.
+[2026.03.06-00.01.43:892][606]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.06-00.01.44:256][637]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.06-00.01.45:238][752]LogBlueprintUserMessages: [AC_InteractionTrace] 0.01
+[2026.03.06-00.01.45:246][753]LogBlueprintUserMessages: [AC_InteractionTrace] 0.02
+[2026.03.06-00.01.45:255][754]LogBlueprintUserMessages: [AC_InteractionTrace] 0.03
+[2026.03.06-00.01.45:262][755]LogBlueprintUserMessages: [AC_InteractionTrace] 0.04
+[2026.03.06-00.01.45:271][756]LogBlueprintUserMessages: [AC_InteractionTrace] 0.05
+[2026.03.06-00.01.45:288][758]LogBlueprintUserMessages: [AC_InteractionTrace] 0.06
+[2026.03.06-00.01.45:297][759]LogBlueprintUserMessages: [AC_InteractionTrace] 0.07
+[2026.03.06-00.01.45:306][760]LogBlueprintUserMessages: [AC_InteractionTrace] 0.08
+[2026.03.06-00.01.45:314][761]LogBlueprintUserMessages: [AC_InteractionTrace] 0.09
+[2026.03.06-00.01.45:323][762]LogBlueprintUserMessages: [AC_InteractionTrace] 0.1
+[2026.03.06-00.01.45:331][763]LogBlueprintUserMessages: [AC_InteractionTrace] 0.11
+[2026.03.06-00.01.45:348][765]LogBlueprintUserMessages: [AC_InteractionTrace] 0.12
+[2026.03.06-00.01.45:356][766]LogBlueprintUserMessages: [AC_InteractionTrace] 0.13
+[2026.03.06-00.01.45:365][767]LogBlueprintUserMessages: [AC_InteractionTrace] 0.14
+[2026.03.06-00.01.45:373][768]LogBlueprintUserMessages: [AC_InteractionTrace] 0.15
+[2026.03.06-00.01.45:383][769]LogBlueprintUserMessages: [AC_InteractionTrace] 0.16
+[2026.03.06-00.01.45:399][771]LogBlueprintUserMessages: [AC_InteractionTrace] 0.17
+[2026.03.06-00.01.45:408][772]LogBlueprintUserMessages: [AC_InteractionTrace] 0.18
+[2026.03.06-00.01.45:418][773]LogBlueprintUserMessages: [AC_InteractionTrace] 0.19
+[2026.03.06-00.01.45:425][774]LogBlueprintUserMessages: [AC_InteractionTrace] 0.2
+[2026.03.06-00.01.45:434][775]LogBlueprintUserMessages: [AC_InteractionTrace] 0.21
+[2026.03.06-00.01.45:443][776]LogBlueprintUserMessages: [AC_InteractionTrace] 0.22
+[2026.03.06-00.01.45:451][777]LogBlueprintUserMessages: [AC_InteractionTrace] 0.23
+[2026.03.06-00.01.45:469][779]LogBlueprintUserMessages: [AC_InteractionTrace] 0.24
+[2026.03.06-00.01.45:478][780]LogBlueprintUserMessages: [AC_InteractionTrace] 0.25
+[2026.03.06-00.01.45:487][781]LogBlueprintUserMessages: [AC_InteractionTrace] 0.26
+[2026.03.06-00.01.45:494][782]LogBlueprintUserMessages: [AC_InteractionTrace] 0.27
+[2026.03.06-00.01.45:503][783]LogBlueprintUserMessages: [AC_InteractionTrace] 0.28
+[2026.03.06-00.01.45:511][784]LogBlueprintUserMessages: [AC_InteractionTrace] 0.29
+[2026.03.06-00.01.45:529][786]LogBlueprintUserMessages: [AC_InteractionTrace] 0.3
+[2026.03.06-00.01.45:538][787]LogBlueprintUserMessages: [AC_InteractionTrace] 0.31
+[2026.03.06-00.01.45:547][788]LogBlueprintUserMessages: [AC_InteractionTrace] 0.32
+[2026.03.06-00.01.45:555][789]LogBlueprintUserMessages: [AC_InteractionTrace] 0.33
+[2026.03.06-00.01.45:564][790]LogBlueprintUserMessages: [AC_InteractionTrace] 0.34
+[2026.03.06-00.01.45:572][791]LogBlueprintUserMessages: [AC_InteractionTrace] 0.35
+[2026.03.06-00.01.45:589][793]LogBlueprintUserMessages: [AC_InteractionTrace] 0.36
+[2026.03.06-00.01.45:597][794]LogBlueprintUserMessages: [AC_InteractionTrace] 0.37
+[2026.03.06-00.01.45:605][795]LogBlueprintUserMessages: [AC_InteractionTrace] 0.38
+[2026.03.06-00.01.45:614][796]LogBlueprintUserMessages: [AC_InteractionTrace] 0.39
+[2026.03.06-00.01.45:622][797]LogBlueprintUserMessages: [AC_InteractionTrace] 0.4
+[2026.03.06-00.01.45:639][799]LogBlueprintUserMessages: [AC_InteractionTrace] 0.41
+[2026.03.06-00.01.45:647][800]LogBlueprintUserMessages: [AC_InteractionTrace] 0.42
+[2026.03.06-00.01.45:654][801]LogBlueprintUserMessages: [AC_InteractionTrace] 0.43
+[2026.03.06-00.01.45:663][802]LogBlueprintUserMessages: [AC_InteractionTrace] 0.44
+[2026.03.06-00.01.45:671][803]LogBlueprintUserMessages: [AC_InteractionTrace] 0.45
+[2026.03.06-00.01.45:689][805]LogBlueprintUserMessages: [AC_InteractionTrace] 0.46
+[2026.03.06-00.01.45:697][806]LogBlueprintUserMessages: [AC_InteractionTrace] 0.47
+[2026.03.06-00.01.45:706][807]LogBlueprintUserMessages: [AC_InteractionTrace] 0.48
+[2026.03.06-00.01.45:714][808]LogBlueprintUserMessages: [AC_InteractionTrace] 0.49
+[2026.03.06-00.01.45:722][809]LogBlueprintUserMessages: [AC_InteractionTrace] 0.5
+[2026.03.06-00.01.45:739][811]LogBlueprintUserMessages: [AC_InteractionTrace] 0.51
+[2026.03.06-00.01.45:747][812]LogBlueprintUserMessages: [AC_InteractionTrace] 0.52
+[2026.03.06-00.01.45:756][813]LogBlueprintUserMessages: [AC_InteractionTrace] 0.53
+[2026.03.06-00.01.45:764][814]LogBlueprintUserMessages: [AC_InteractionTrace] 0.54
+[2026.03.06-00.01.45:772][815]LogBlueprintUserMessages: [AC_InteractionTrace] 0.55
+[2026.03.06-00.01.45:790][817]LogBlueprintUserMessages: [AC_InteractionTrace] 0.56
+[2026.03.06-00.01.45:797][818]LogBlueprintUserMessages: [AC_InteractionTrace] 0.57
+[2026.03.06-00.01.45:806][819]LogBlueprintUserMessages: [AC_InteractionTrace] 0.58
+[2026.03.06-00.01.45:814][820]LogBlueprintUserMessages: [AC_InteractionTrace] 0.59
+[2026.03.06-00.01.45:822][821]LogBlueprintUserMessages: [AC_InteractionTrace] 0.6
+[2026.03.06-00.01.45:839][823]LogBlueprintUserMessages: [AC_InteractionTrace] 0.61
+[2026.03.06-00.01.45:847][824]LogBlueprintUserMessages: [AC_InteractionTrace] 0.62
+[2026.03.06-00.01.45:856][825]LogBlueprintUserMessages: [AC_InteractionTrace] 0.63
+[2026.03.06-00.01.45:864][826]LogBlueprintUserMessages: [AC_InteractionTrace] 0.64
+[2026.03.06-00.01.45:872][827]LogBlueprintUserMessages: [AC_InteractionTrace] 0.65
+[2026.03.06-00.01.45:889][829]LogBlueprintUserMessages: [AC_InteractionTrace] 0.66
+[2026.03.06-00.01.45:897][830]LogBlueprintUserMessages: [AC_InteractionTrace] 0.67
+[2026.03.06-00.01.45:905][831]LogBlueprintUserMessages: [AC_InteractionTrace] 0.68
+[2026.03.06-00.01.45:914][832]LogBlueprintUserMessages: [AC_InteractionTrace] 0.69
+[2026.03.06-00.01.45:922][833]LogBlueprintUserMessages: [AC_InteractionTrace] 0.7
+[2026.03.06-00.01.45:939][835]LogBlueprintUserMessages: [AC_InteractionTrace] 0.71
+[2026.03.06-00.01.45:947][836]LogBlueprintUserMessages: [AC_InteractionTrace] 0.72
+[2026.03.06-00.01.45:956][837]LogBlueprintUserMessages: [AC_InteractionTrace] 0.73
+[2026.03.06-00.01.45:964][838]LogBlueprintUserMessages: [AC_InteractionTrace] 0.74
+[2026.03.06-00.01.45:972][839]LogBlueprintUserMessages: [AC_InteractionTrace] 0.75
+[2026.03.06-00.01.45:988][841]LogBlueprintUserMessages: [AC_InteractionTrace] 0.76
+[2026.03.06-00.01.45:997][842]LogBlueprintUserMessages: [AC_InteractionTrace] 0.77
+[2026.03.06-00.01.46:005][843]LogBlueprintUserMessages: [AC_InteractionTrace] 0.78
+[2026.03.06-00.01.46:013][844]LogBlueprintUserMessages: [AC_InteractionTrace] 0.79
+[2026.03.06-00.01.46:022][845]LogBlueprintUserMessages: [AC_InteractionTrace] 0.8
+[2026.03.06-00.01.46:038][847]LogBlueprintUserMessages: [AC_InteractionTrace] 0.81
+[2026.03.06-00.01.46:047][848]LogBlueprintUserMessages: [AC_InteractionTrace] 0.82
+[2026.03.06-00.01.46:055][849]LogBlueprintUserMessages: [AC_InteractionTrace] 0.83
+[2026.03.06-00.01.46:064][850]LogBlueprintUserMessages: [AC_InteractionTrace] 0.84
+[2026.03.06-00.01.46:072][851]LogBlueprintUserMessages: [AC_InteractionTrace] 0.85
+[2026.03.06-00.01.46:089][853]LogBlueprintUserMessages: [AC_InteractionTrace] 0.86
+[2026.03.06-00.01.46:097][854]LogBlueprintUserMessages: [AC_InteractionTrace] 0.87
+[2026.03.06-00.01.46:105][855]LogBlueprintUserMessages: [AC_InteractionTrace] 0.88
+[2026.03.06-00.01.46:113][856]LogBlueprintUserMessages: [AC_InteractionTrace] 0.89
+[2026.03.06-00.01.46:122][857]LogBlueprintUserMessages: [AC_InteractionTrace] 0.9
+[2026.03.06-00.01.46:138][859]LogBlueprintUserMessages: [AC_InteractionTrace] 0.91
+[2026.03.06-00.01.46:147][860]LogBlueprintUserMessages: [AC_InteractionTrace] 0.92
+[2026.03.06-00.01.46:155][861]LogBlueprintUserMessages: [AC_InteractionTrace] 0.93
+[2026.03.06-00.01.46:164][862]LogBlueprintUserMessages: [AC_InteractionTrace] 0.94
+[2026.03.06-00.01.46:172][863]LogBlueprintUserMessages: [AC_InteractionTrace] 0.95
+[2026.03.06-00.01.46:188][865]LogBlueprintUserMessages: [AC_InteractionTrace] 0.96
+[2026.03.06-00.01.46:197][866]LogBlueprintUserMessages: [AC_InteractionTrace] 0.97
+[2026.03.06-00.01.46:205][867]LogBlueprintUserMessages: [AC_InteractionTrace] 0.98
+[2026.03.06-00.01.46:213][868]LogBlueprintUserMessages: [AC_InteractionTrace] 0.99
+[2026.03.06-00.01.46:222][869]LogBlueprintUserMessages: [AC_InteractionTrace] 1.0
+[2026.03.06-00.01.46:238][871]LogBlueprintUserMessages: [AC_InteractionTrace] 1.01
+[2026.03.06-00.01.46:238][871]LogBlueprintUserMessages: [AC_InteractionTrace] Hello
+[2026.03.06-00.01.46:729][930]LogBlueprintUserMessages: [AC_InteractionTrace] Hello
+[2026.03.06-00.01.47:005][963]LogBlueprintUserMessages: [AC_InteractionTrace] 0.01
+[2026.03.06-00.01.47:014][964]LogBlueprintUserMessages: [AC_InteractionTrace] 0.02
+[2026.03.06-00.01.47:022][965]LogBlueprintUserMessages: [AC_InteractionTrace] 0.03
+[2026.03.06-00.01.47:030][966]LogBlueprintUserMessages: [AC_InteractionTrace] 0.04
+[2026.03.06-00.01.47:039][967]LogBlueprintUserMessages: [AC_InteractionTrace] 0.05
+[2026.03.06-00.01.47:055][969]LogBlueprintUserMessages: [AC_InteractionTrace] 0.06
+[2026.03.06-00.01.47:064][970]LogBlueprintUserMessages: [AC_InteractionTrace] 0.07
+[2026.03.06-00.01.47:072][971]LogBlueprintUserMessages: [AC_InteractionTrace] 0.08
+[2026.03.06-00.01.47:080][972]LogBlueprintUserMessages: [AC_InteractionTrace] 0.09
+[2026.03.06-00.01.47:089][973]LogBlueprintUserMessages: [AC_InteractionTrace] 0.1
+[2026.03.06-00.01.47:105][975]LogBlueprintUserMessages: [AC_InteractionTrace] 0.11
+[2026.03.06-00.01.47:114][976]LogBlueprintUserMessages: [AC_InteractionTrace] 0.12
+[2026.03.06-00.01.47:122][977]LogBlueprintUserMessages: [AC_InteractionTrace] 0.13
+[2026.03.06-00.01.47:130][978]LogBlueprintUserMessages: [AC_InteractionTrace] 0.14
+[2026.03.06-00.01.47:139][979]LogBlueprintUserMessages: [AC_InteractionTrace] 0.15
+[2026.03.06-00.01.47:155][981]LogBlueprintUserMessages: [AC_InteractionTrace] 0.16
+[2026.03.06-00.01.47:164][982]LogBlueprintUserMessages: [AC_InteractionTrace] 0.17
+[2026.03.06-00.01.47:172][983]LogBlueprintUserMessages: [AC_InteractionTrace] 0.18
+[2026.03.06-00.01.47:180][984]LogBlueprintUserMessages: [AC_InteractionTrace] 0.19
+[2026.03.06-00.01.47:189][985]LogBlueprintUserMessages: [AC_InteractionTrace] 0.2
+[2026.03.06-00.01.47:205][987]LogBlueprintUserMessages: [AC_InteractionTrace] 0.21
+[2026.03.06-00.01.47:214][988]LogBlueprintUserMessages: [AC_InteractionTrace] 0.22
+[2026.03.06-00.01.47:222][989]LogBlueprintUserMessages: [AC_InteractionTrace] 0.23
+[2026.03.06-00.01.47:230][990]LogBlueprintUserMessages: [AC_InteractionTrace] 0.24
+[2026.03.06-00.01.47:239][991]LogBlueprintUserMessages: [AC_InteractionTrace] 0.25
+[2026.03.06-00.01.47:255][993]LogBlueprintUserMessages: [AC_InteractionTrace] 0.26
+[2026.03.06-00.01.47:264][994]LogBlueprintUserMessages: [AC_InteractionTrace] 0.27
+[2026.03.06-00.01.47:272][995]LogBlueprintUserMessages: [AC_InteractionTrace] 0.28
+[2026.03.06-00.01.47:280][996]LogBlueprintUserMessages: [AC_InteractionTrace] 0.29
+[2026.03.06-00.01.47:289][997]LogBlueprintUserMessages: [AC_InteractionTrace] 0.3
+[2026.03.06-00.01.47:305][999]LogBlueprintUserMessages: [AC_InteractionTrace] 0.31
+[2026.03.06-00.01.47:314][  0]LogBlueprintUserMessages: [AC_InteractionTrace] 0.32
+[2026.03.06-00.01.47:322][  1]LogBlueprintUserMessages: [AC_InteractionTrace] 0.33
+[2026.03.06-00.01.47:330][  2]LogBlueprintUserMessages: [AC_InteractionTrace] 0.34
+[2026.03.06-00.01.47:339][  3]LogBlueprintUserMessages: [AC_InteractionTrace] 0.35
+[2026.03.06-00.01.47:355][  5]LogBlueprintUserMessages: [AC_InteractionTrace] 0.36
+[2026.03.06-00.01.47:364][  6]LogBlueprintUserMessages: [AC_InteractionTrace] 0.37
+[2026.03.06-00.01.47:372][  7]LogBlueprintUserMessages: [AC_InteractionTrace] 0.38
+[2026.03.06-00.01.47:380][  8]LogBlueprintUserMessages: [AC_InteractionTrace] 0.39
+[2026.03.06-00.01.47:388][  9]LogBlueprintUserMessages: [AC_InteractionTrace] 0.4
+[2026.03.06-00.01.47:405][ 11]LogBlueprintUserMessages: [AC_InteractionTrace] 0.41
+[2026.03.06-00.01.47:414][ 12]LogBlueprintUserMessages: [AC_InteractionTrace] 0.42
+[2026.03.06-00.01.47:422][ 13]LogBlueprintUserMessages: [AC_InteractionTrace] 0.43
+[2026.03.06-00.01.47:430][ 14]LogBlueprintUserMessages: [AC_InteractionTrace] 0.44
+[2026.03.06-00.01.47:438][ 15]LogBlueprintUserMessages: [AC_InteractionTrace] 0.45
+[2026.03.06-00.01.47:455][ 17]LogBlueprintUserMessages: [AC_InteractionTrace] 0.46
+[2026.03.06-00.01.47:463][ 18]LogBlueprintUserMessages: [AC_InteractionTrace] 0.47
+[2026.03.06-00.01.47:472][ 19]LogBlueprintUserMessages: [AC_InteractionTrace] 0.48
+[2026.03.06-00.01.47:480][ 20]LogBlueprintUserMessages: [AC_InteractionTrace] 0.49
+[2026.03.06-00.01.47:488][ 21]LogBlueprintUserMessages: [AC_InteractionTrace] 0.5
+[2026.03.06-00.01.47:505][ 23]LogBlueprintUserMessages: [AC_InteractionTrace] 0.51
+[2026.03.06-00.01.47:513][ 24]LogBlueprintUserMessages: [AC_InteractionTrace] 0.52
+[2026.03.06-00.01.47:522][ 25]LogBlueprintUserMessages: [AC_InteractionTrace] 0.53
+[2026.03.06-00.01.47:530][ 26]LogBlueprintUserMessages: [AC_InteractionTrace] 0.54
+[2026.03.06-00.01.47:538][ 27]LogBlueprintUserMessages: [AC_InteractionTrace] 0.55
+[2026.03.06-00.01.47:555][ 29]LogBlueprintUserMessages: [AC_InteractionTrace] 0.56
+[2026.03.06-00.01.47:564][ 30]LogBlueprintUserMessages: [AC_InteractionTrace] 0.57
+[2026.03.06-00.01.47:572][ 31]LogBlueprintUserMessages: [AC_InteractionTrace] 0.58
+[2026.03.06-00.01.47:580][ 32]LogBlueprintUserMessages: [AC_InteractionTrace] 0.59
+[2026.03.06-00.01.47:588][ 33]LogBlueprintUserMessages: [AC_InteractionTrace] 0.6
+[2026.03.06-00.01.47:605][ 35]LogBlueprintUserMessages: [AC_InteractionTrace] 0.61
+[2026.03.06-00.01.47:613][ 36]LogBlueprintUserMessages: [AC_InteractionTrace] 0.62
+[2026.03.06-00.01.47:622][ 37]LogBlueprintUserMessages: [AC_InteractionTrace] 0.63
+[2026.03.06-00.01.47:630][ 38]LogBlueprintUserMessages: [AC_InteractionTrace] 0.64
+[2026.03.06-00.01.47:638][ 39]LogBlueprintUserMessages: [AC_InteractionTrace] 0.65
+[2026.03.06-00.01.47:655][ 41]LogBlueprintUserMessages: [AC_InteractionTrace] 0.66
+[2026.03.06-00.01.47:664][ 42]LogBlueprintUserMessages: [AC_InteractionTrace] 0.67
+[2026.03.06-00.01.47:672][ 43]LogBlueprintUserMessages: [AC_InteractionTrace] 0.68
+[2026.03.06-00.01.47:680][ 44]LogBlueprintUserMessages: [AC_InteractionTrace] 0.69
+[2026.03.06-00.01.47:689][ 45]LogBlueprintUserMessages: [AC_InteractionTrace] 0.7
+[2026.03.06-00.01.47:705][ 47]LogBlueprintUserMessages: [AC_InteractionTrace] 0.71
+[2026.03.06-00.01.47:713][ 48]LogBlueprintUserMessages: [AC_InteractionTrace] 0.72
+[2026.03.06-00.01.47:722][ 49]LogBlueprintUserMessages: [AC_InteractionTrace] 0.73
+[2026.03.06-00.01.47:730][ 50]LogBlueprintUserMessages: [AC_InteractionTrace] 0.74
+[2026.03.06-00.01.47:739][ 51]LogBlueprintUserMessages: [AC_InteractionTrace] 0.75
+[2026.03.06-00.01.47:755][ 53]LogBlueprintUserMessages: [AC_InteractionTrace] 0.76
+[2026.03.06-00.01.47:764][ 54]LogBlueprintUserMessages: [AC_InteractionTrace] 0.77
+[2026.03.06-00.01.47:772][ 55]LogBlueprintUserMessages: [AC_InteractionTrace] 0.78
+[2026.03.06-00.01.47:780][ 56]LogBlueprintUserMessages: [AC_InteractionTrace] 0.79
+[2026.03.06-00.01.47:789][ 57]LogBlueprintUserMessages: [AC_InteractionTrace] 0.8
+[2026.03.06-00.01.47:805][ 59]LogBlueprintUserMessages: [AC_InteractionTrace] 0.81
+[2026.03.06-00.01.47:813][ 60]LogBlueprintUserMessages: [AC_InteractionTrace] 0.82
+[2026.03.06-00.01.47:822][ 61]LogBlueprintUserMessages: [AC_InteractionTrace] 0.83
+[2026.03.06-00.01.47:830][ 62]LogBlueprintUserMessages: [AC_InteractionTrace] 0.84
+[2026.03.06-00.01.47:838][ 63]LogBlueprintUserMessages: [AC_InteractionTrace] 0.85
+[2026.03.06-00.01.47:855][ 65]LogBlueprintUserMessages: [AC_InteractionTrace] 0.86
+[2026.03.06-00.01.47:864][ 66]LogBlueprintUserMessages: [AC_InteractionTrace] 0.87
+[2026.03.06-00.01.47:872][ 67]LogBlueprintUserMessages: [AC_InteractionTrace] 0.88
+[2026.03.06-00.01.47:880][ 68]LogBlueprintUserMessages: [AC_InteractionTrace] 0.89
+[2026.03.06-00.01.47:889][ 69]LogBlueprintUserMessages: [AC_InteractionTrace] 0.9
+[2026.03.06-00.01.47:905][ 71]LogBlueprintUserMessages: [AC_InteractionTrace] 0.91
+[2026.03.06-00.01.47:913][ 72]LogBlueprintUserMessages: [AC_InteractionTrace] 0.92
+[2026.03.06-00.01.47:922][ 73]LogBlueprintUserMessages: [AC_InteractionTrace] 0.93
+[2026.03.06-00.01.47:930][ 74]LogBlueprintUserMessages: [AC_InteractionTrace] 0.94
+[2026.03.06-00.01.47:938][ 75]LogBlueprintUserMessages: [AC_InteractionTrace] 0.95
+[2026.03.06-00.01.47:955][ 77]LogBlueprintUserMessages: [AC_InteractionTrace] 0.96
+[2026.03.06-00.01.47:964][ 78]LogBlueprintUserMessages: [AC_InteractionTrace] 0.97
+[2026.03.06-00.01.47:972][ 79]LogBlueprintUserMessages: [AC_InteractionTrace] 0.98
+[2026.03.06-00.01.47:980][ 80]LogBlueprintUserMessages: [AC_InteractionTrace] 0.99
+[2026.03.06-00.01.47:988][ 81]LogBlueprintUserMessages: [AC_InteractionTrace] 1.0
+[2026.03.06-00.01.48:005][ 83]LogBlueprintUserMessages: [AC_InteractionTrace] 1.01
+[2026.03.06-00.01.48:005][ 83]LogBlueprintUserMessages: [AC_InteractionTrace] Hello
+[2026.03.06-00.01.48:949][194]LogBlueprintUserMessages: [AC_InteractionTrace] Hello
+[2026.03.06-00.01.50:860][423]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.06-00.01.51:185][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.06-00.01.51:185][459]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.06-00.01.51:185][459]LogSlate: Window 'Substation9 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.06-00.01.51:189][459]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-00.01.51:190][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-00.01.51:190][459]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.06-00.01.51:191][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.06-00.01.51:196][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-00.01.51:217][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.06-00.01.51:217][459]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2026.03.06-00.01.51:217][459]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65, StreamState=4
+[2026.03.06-00.01.51:219][459]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65, StreamState=2
+[2026.03.06-00.01.51:219][459]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=65
+[2026.03.06-00.01.51:222][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.06-00.01.51:269][460]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2026.03.06-00.01.55:093][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85275.312500
+[2026.03.06-00.01.55:218][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-00.01.55:218][927]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85275.421875, Update Interval: 354.466370
+[2026.03.06-00.02.17:225][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.06-00.02.17:593][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-00.02.17:633][527]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.06-00.02.17:633][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.06-00.02.17:633][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.06-00.02.17:654][527]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.06-00.02.17:654][527]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTraceE9FE416149588AD6379AF8960944116E.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.06-00.02.17:662][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.410 ms (total: 5.10 sec)
+[2026.03.06-00.02.17:703][527]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-00.02.17:703][527]LogContentValidation: Enabled validators:
+[2026.03.06-00.02.17:703][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-00.02.17:703][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-00.02.17:703][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-00.02.17:703][527]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-00.02.17:703][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-00.02.17:703][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-00.02.17:703][527]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.06-00.02.24:592][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.06-00.02.25:210][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-00.02.25:256][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_InteractionTrace] ([2] browsable assets)...
+[2026.03.06-00.02.25:256][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_InteractionTrace]
+[2026.03.06-00.02.25:256][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_InteractionTrace" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset" SILENT=true
+[2026.03.06-00.02.25:277][399]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_InteractionTrace
+[2026.03.06-00.02.25:277][399]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/AC_InteractionTraceE25529854923856C98C0B28FACEBE323.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Blueprints/AC_InteractionTrace.uasset'
+[2026.03.06-00.02.25:284][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.008 ms (total: 5.18 sec)
+[2026.03.06-00.02.25:327][399]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.06-00.02.25:327][399]LogContentValidation: Enabled validators:
+[2026.03.06-00.02.25:327][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-00.02.25:327][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-00.02.25:327][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-00.02.25:327][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-00.02.25:327][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-00.02.25:327][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-00.02.25:328][399]AssetCheck: /Game/Blueprints/AC_InteractionTrace Validating asset
+[2026.03.06-00.02.26:255][507]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.06-00.02.26:260][507]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.06-00.02.26:260][507]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.06-00.02.26:260][507]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 569 us (total: 38.016 ms)
+[2026.03.06-00.02.26:260][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.06-00.02.26:261][507]LogPlayLevel: Display: Creating online subsystem for client :Context_77
+[2026.03.06-00.02.26:263][507]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2026.03.06-00.02.26:269][508]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.06-00.02.26:273][508]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.06-00.02.26:274][508]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 786 us (total: 48.989 ms)
+[2026.03.06-00.02.26:274][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004683s)
+[2026.03.06-00.02.26:274][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.004716s)
+[2026.03.06-00.02.26:294][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.06-00.02.26:301][508]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.06-00.02.26:303][508]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.06-00.02.26:303][508]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.06-00.02.26:303][508]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.06-00.02.26:303][508]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.06-00.02.26:304][508]LogWorldPartition: Display: WorldPartition initialize took 1.205 ms (total: 370.513 ms)
+[2026.03.06-00.02.26:304][508]LogPlayLevel: PIE: World Init took: (0.002622s)
+[2026.03.06-00.02.26:305][508]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2026.03.06-00.02.26:305][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.06-00.02.26:305][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.06-00.02.26:305][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.06-00.02.26:305][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.06-00.02.26:305][508]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.06-00.02.26:305][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.06-00.02.26:305][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.06-00.02.26:305][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.06-00.02.26:305][508]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.06-00.02.26:305][508]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.06-00.02.26:305][508]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.06-00.02.26:307][508]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.06-00.02.26:316][508]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2026.03.06-00.02.26:316][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.06-00.02.26:316][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.06-00.02.26:316][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.06-00.02.26:316][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2026.03.06-00.02.26:316][508]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=66
+[2026.03.06-00.02.26:316][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2026.03.06-00.02.26:316][508]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7636
+[2026.03.06-00.02.26:316][508]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=66
+[2026.03.06-00.02.26:318][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2026.03.06-00.02.26:318][508]LogInit: FAudioDevice initialized with ID 66.
+[2026.03.06-00.02.26:318][508]LogAudio: Display: Audio Device (ID: 66) registered with world 'Lvl_FirstPerson'.
+[2026.03.06-00.02.26:318][508]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2026.03.06-00.02.26:353][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.06-00.02.26:353][508]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.06-00.02.26:355][508]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.05-16.02.26
+[2026.03.06-00.02.26:356][508]LogWorld: Bringing up level for play took: 0.002034
+[2026.03.06-00.02.26:361][508]PIE: Server logged in
+[2026.03.06-00.02.26:362][508]PIE: Play in editor total start time 0.101 seconds.
+[2026.03.06-00.02.26:427][509]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.06-00.02.27:175][587]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.06-00.02.27:383][612]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.06-00.02.27:591][637]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] true
+[2026.03.06-00.02.29:500][866]LogBlueprintUserMessages: [AC_InteractionTrace] Test
+[2026.03.06-00.02.30:252][956]LogBlueprintUserMessages: [AC_InteractionTrace] Test
+[2026.03.06-00.02.31:646][123]LogBlueprintUserMessages: [InteractionTester_C_UAID_D843AE50AB85B9C402_1504312031] false
+[2026.03.06-00.02.32:866][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.06-00.02.32:866][264]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.06-00.02.32:867][264]LogSlate: Window 'Substation9 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.06-00.02.32:870][264]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.06-00.02.32:871][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-00.02.32:871][264]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.06-00.02.32:872][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.06-00.02.32:877][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.06-00.02.32:897][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.06-00.02.32:897][264]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2026.03.06-00.02.32:897][264]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66, StreamState=4
+[2026.03.06-00.02.32:899][264]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66, StreamState=2
+[2026.03.06-00.02.32:899][264]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=66
+[2026.03.06-00.02.32:902][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.06-00.02.32:950][265]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2026.03.06-00.03.28:668][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
