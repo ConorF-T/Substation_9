@@ -5081,3 +5081,20 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.16-23.50.55:698][757]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
 [2026.04.16-23.50.55:703][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2026.04.16-23.50.55:740][758]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.04.16-23.52.41:966][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.04.16-23.52.41:971][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-23.52.42:024][547]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Map] ([1] browsable assets)...
+[2026.04.16-23.52.42:024][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Map]
+[2026.04.16-23.52.42:024][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Map" FILE="../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Map.uasset" SILENT=true
+[2026.04.16-23.52.42:030][547]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Map
+[2026.04.16-23.52.42:031][547]LogSavePackage: Moving '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Saved/IA_Map280BA5704DFE93F6A6510B8D7D78B9C2.tmp' to '../../../../../../Users/Conor/Documents/GitHub/Substation_9/Substation9/Content/Input/Actions/IA_Map.uasset'
+[2026.04.16-23.52.42:038][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.867 ms (total: 3.63 sec)
+[2026.04.16-23.52.42:090][547]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-23.52.42:090][547]LogContentValidation: Enabled validators:
+[2026.04.16-23.52.42:090][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-23.52.42:090][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-23.52.42:090][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-23.52.42:090][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-23.52.42:090][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-23.52.42:090][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-23.52.42:090][547]AssetCheck: /Game/Input/Actions/IA_Map Validating asset
